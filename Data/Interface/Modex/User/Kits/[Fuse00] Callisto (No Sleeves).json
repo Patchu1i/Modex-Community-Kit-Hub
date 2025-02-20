@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Callisto (No Sleeves)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Callisto (No Sleeves)",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitCallisto_nosleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Callisto Armor (no sleeves)",
+                "Plugin": "_Fuse00_ArmorCallisto.esp"
+            },
+            "_Fuse00_ArmsOutfitCallisto": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Callisto Gauntlets",
+                "Plugin": "_Fuse00_ArmorCallisto.esp"
+            },
+            "_Fuse00_BootsOutfitCallisto": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Callisto Boots",
+                "Plugin": "_Fuse00_ArmorCallisto.esp"
+            },
+            "_Fuse00_CircletOutfitCallisto": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Callisto Circlet",
+                "Plugin": "_Fuse00_ArmorCallisto.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

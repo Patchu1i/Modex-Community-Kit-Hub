@@ -1,0 +1,28 @@
+{
+    "[GolinskiPRH] Stormcloak Warmaiden (Cuirass)": {
+        "ClearEquipped": true,
+        "Collection": "[GolinskiPRH] Stormcloak Warmaiden (Cuirass)",
+        "Description": "",
+        "Items": {
+            "ArmorCuirassWarmaiden": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Warmaiden Cuirass",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            },
+            "WarmaidenArmorScaledBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Warmaiden Boots",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            },
+            "WarmaidenArmorScaledGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Warmaiden Gauntlets",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

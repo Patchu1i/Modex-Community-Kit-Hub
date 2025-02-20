@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Goth GF": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Goth GF",
+        "Description": "",
+        "Items": {
+            "1_ObiGothCollar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Goth GF Collar",
+                "Plugin": "Obi's Goth GF Skyrim.esp"
+            },
+            "1_ObiGothHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Goth GF Heels",
+                "Plugin": "Obi's Goth GF Skyrim.esp"
+            },
+            "1_ObiGothShorts": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Goth GF Shorts",
+                "Plugin": "Obi's Goth GF Skyrim.esp"
+            },
+            "1_ObiGothTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Goth GF Top",
+                "Plugin": "Obi's Goth GF Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

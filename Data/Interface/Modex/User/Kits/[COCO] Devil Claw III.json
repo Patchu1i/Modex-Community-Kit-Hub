@@ -1,0 +1,64 @@
+{
+    "[COCO] Devil Claw III": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Devil Claw III",
+        "Description": "",
+        "Items": {
+            "Devil_claw_bellymet3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Belly Metal III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_bramat3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Bra Metal III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_claw3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Claws III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_glove3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Gloves III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_leg3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Leggings III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_metalleg3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Metal Legs III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_necklace3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Necklace III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_shirt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Shirt III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            },
+            "Devil_claw_waistmet3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Devil Claw Waist Metal III",
+                "Plugin": "[COCO] Devil Claw.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

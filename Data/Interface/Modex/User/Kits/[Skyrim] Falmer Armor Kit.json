@@ -1,0 +1,76 @@
+{
+    "[Skyrim] Falmer Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Falmer Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorFAlmerHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorFalmerBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorFalmerCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorFalmerGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorFalmerShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerBowSupple": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Supple Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerSword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerSwordHoned": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Honed Falmer Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Falmer War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "FalmerWarAxeHoned": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Honed Falmer War Axe",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

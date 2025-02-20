@@ -1,0 +1,58 @@
+{
+    "[Skyrim] Forsworn Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Forsworn Armor Kit",
+        "Description": "",
+        "Items": {
+            "ForswornAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Forsworn Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forsworn Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Forsworn Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forsworn Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forsworn Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forsworn Headdress",
+                "Plugin": "Skyrim.esm"
+            },
+            "ForswornSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Forsworn Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "StaffTemplateForsworn": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Unenchanted Forsworn Staff",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

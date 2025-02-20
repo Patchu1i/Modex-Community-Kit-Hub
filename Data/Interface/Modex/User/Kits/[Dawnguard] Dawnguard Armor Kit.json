@@ -1,0 +1,82 @@
+{
+    "[Dawnguard] Dawnguard Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dawnguard] Dawnguard Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC1ArmorDawnguardBootsLight": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardCuirassHeavy1": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Heavy Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardCuirassHeavy2": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Heavy Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardCuirassLight1": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardCuirassLight2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnguard Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardCuirassLight3": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardGauntletsLight": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorDawnguardHelmetLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnguard Helmet",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorHunterBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnguard Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorHunterCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorHunterGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnguard Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1DawnguardRuneShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dawnguard Rune Shield",
+                "Plugin": "Dawnguard.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

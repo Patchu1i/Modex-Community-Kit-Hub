@@ -1,0 +1,52 @@
+{
+    "[DX] Black Widow": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Black Widow",
+        "Description": "",
+        "Items": {
+            "DX_BlackWidow_Choker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Choker",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_Dress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Dress",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Gloves",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_Lingerie": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Lingerie",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_MaskLow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Mask (low)",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_Shoes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Shoes",
+                "Plugin": "Black Widow Outfit.esl"
+            },
+            "DX_BlackWidow_SpiderLegs": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Black Widow Spider Legs",
+                "Plugin": "Black Widow Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

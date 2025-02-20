@@ -1,0 +1,52 @@
+{
+    "[ELLE] Tavern Maid (Black & Red)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Tavern Maid (Black & Red)",
+        "Description": "",
+        "Items": {
+            "00EL_TavernMaidBoots3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Boots 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidCorset3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Corset 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidGloves3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Gloves 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidNecklace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Necklace",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidShorts3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Shorts 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidStockings3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Stockings 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            },
+            "00EL_TavernMaidTop3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Tavern Maid Top 3",
+                "Plugin": "[ELLE] Tavern Maid.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

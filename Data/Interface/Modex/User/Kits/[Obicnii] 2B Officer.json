@@ -1,0 +1,64 @@
+{
+    "[Obicnii] 2B Officer": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] 2B Officer",
+        "Description": "",
+        "Items": {
+            "1_2B_BlindFold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer BlindFold",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Bodysuit": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Bodysuit",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Collar",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Gloves",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Harness": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Harness",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Hat": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Hat",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_HighHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer High Heels",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_LegStraps": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Leg Straps",
+                "Plugin": "Obi's 2B Officer.esp"
+            },
+            "1_2B_Shirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "2B Officer Shirt",
+                "Plugin": "Obi's 2B Officer.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

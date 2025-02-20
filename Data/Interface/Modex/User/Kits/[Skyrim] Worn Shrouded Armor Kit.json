@@ -1,0 +1,34 @@
+{
+    "[Skyrim] Worn Shrouded Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Worn Shrouded Armor Kit",
+        "Description": "",
+        "Items": {
+            "DBArmorBootsWornPlayable": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Worn Shrouded Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "DBArmorGlovesWornPlayable": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Worn Shrouded Gloves",
+                "Plugin": "Skyrim.esm"
+            },
+            "DBArmorHelmetWornPlayable": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Worn Shrouded Cowl",
+                "Plugin": "Skyrim.esm"
+            },
+            "DBArmorWornPlayable": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Worn Shrouded Armor",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

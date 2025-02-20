@@ -1,0 +1,46 @@
+{
+    "[Immersive Armor] Ritual Armor of Boethiah": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ritual Armor of Boethiah",
+        "Description": "",
+        "Items": {
+            "IARitualBoethiahBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Boots of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARitualBoethiahCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Armor of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARitualBoethiahGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Gauntlets of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARitualBoethiahHelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Helm of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARitualBoethiahMask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Mask of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARitualBoethiahShroud": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ritual Shroud of Boethiah",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

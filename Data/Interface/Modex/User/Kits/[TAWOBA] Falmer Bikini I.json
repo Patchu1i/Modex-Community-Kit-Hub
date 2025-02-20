@@ -1,0 +1,58 @@
+{
+    "[TAWOBA] Falmer Bikini I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Falmer Bikini I",
+        "Description": "",
+        "Items": {
+            "00FBA_Bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bikini Top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Tasset_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Tasset I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Thong_Chaurus": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Chaurus Bottom",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_chaurus": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Back Chaurus",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_head_crown_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Chaurus Crown",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

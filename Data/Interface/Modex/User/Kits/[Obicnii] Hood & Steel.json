@@ -1,0 +1,46 @@
+{
+    "[Obicnii] Hood & Steel": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Hood & Steel",
+        "Description": "",
+        "Items": {
+            "1_H&S_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S Armor",
+                "Plugin": "Obi's Hood&Steel.esp"
+            },
+            "1_H&S_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S Boots",
+                "Plugin": "Obi's Hood&Steel.esp"
+            },
+            "1_H&S_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S_Gloves",
+                "Plugin": "Obi's Hood&Steel.esp"
+            },
+            "1_H&S_Hood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S Hood",
+                "Plugin": "Obi's Hood&Steel.esp"
+            },
+            "1_H&S_Mask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S Mask",
+                "Plugin": "Obi's Hood&Steel.esp"
+            },
+            "1_H&S_Shoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ObiH&S Shoulder",
+                "Plugin": "Obi's Hood&Steel.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

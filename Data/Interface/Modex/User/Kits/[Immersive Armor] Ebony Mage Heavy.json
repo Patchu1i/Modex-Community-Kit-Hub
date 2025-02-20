@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Ebony Mage Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ebony Mage Heavy",
+        "Description": "",
+        "Items": {
+            "IABucklerEbony": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Buckler",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageHeavyGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Heavy Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageHeavyHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Heavy Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageHeavyRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Heavy Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

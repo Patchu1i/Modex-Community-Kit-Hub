@@ -1,0 +1,58 @@
+{
+    "[COCO] Snow Queen 4 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Snow Queen 4 (SMP)",
+        "Description": "",
+        "Items": {
+            "SQ_RibbonSkirtSmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Ribbon Skirt 4 (SMP)",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_arm4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Arm 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_braf4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Bra Fur 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_glove4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Gloves 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_neck4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Neck 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_shoes4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Shoes 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_skirtsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen Skirt 4 (SMP)",
+                "Plugin": "[COCO] Snow Queen.esp"
+            },
+            "SQ_string4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Snow Queen String 4",
+                "Plugin": "[COCO] Snow Queen.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

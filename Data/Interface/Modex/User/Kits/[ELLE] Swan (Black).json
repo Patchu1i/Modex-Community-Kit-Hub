@@ -1,0 +1,46 @@
+{
+    "[ELLE] Swan (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Swan (Black)",
+        "Description": "",
+        "Items": {
+            "00EL_SwanChokerBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Choker Black",
+                "Plugin": "[ELLE] Swan.esp"
+            },
+            "00EL_SwanEarsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Ears Black",
+                "Plugin": "[ELLE] Swan.esp"
+            },
+            "00EL_SwanGlovesBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Gloves Black",
+                "Plugin": "[ELLE] Swan.esp"
+            },
+            "00EL_SwanMainBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Main Black",
+                "Plugin": "[ELLE] Swan.esp"
+            },
+            "00EL_SwanShoesBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Shoes Black",
+                "Plugin": "[ELLE] Swan.esp"
+            },
+            "00EL_SwanWingsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Swan Wings Black",
+                "Plugin": "[ELLE] Swan.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

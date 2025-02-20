@@ -1,0 +1,64 @@
+{
+    "[DX] Love Bunny": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Love Bunny",
+        "Description": "",
+        "Items": {
+            "DX_LoveBunny_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Boots",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_CandyCane": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Candy Cane",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Collar1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Collar",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Ears": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Ears",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Gloves",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Ribbon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Ribbon",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Skirt",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Socks": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Socks",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_LoveBunny_Top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Love Bunny Top",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

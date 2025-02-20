@@ -1,0 +1,46 @@
+{
+    "[Aradia] Lace Dress (Teal)": {
+        "ClearEquipped": true,
+        "Collection": "[Aradia] Lace Dress (Teal)",
+        "Description": "",
+        "Items": {
+            "MinouAradiaLaceDressBraceletsTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Bracelets - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressNeckTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Neck - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressSkirtTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Skirt - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressStokingsTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Stockings - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressThongTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Thong - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressTopTeal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Top - Teal",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

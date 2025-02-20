@@ -1,0 +1,82 @@
+{
+    "[COCO] Witchiness II (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Witchiness II (SMP)",
+        "Description": "",
+        "Items": {
+            "WitchiRing2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Ring II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltlow2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Lower II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltup2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Upper II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_bra2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Bra II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_glovel2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Glove Left II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_knee2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Knees II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_neckA2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Neck AII",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_pants2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Panty II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_sho2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoulders II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_shoes2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoes II",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_skirt2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Skirt II (SMP)",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_stockA2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Stockings AII",
+                "Plugin": "[COCO] Witchiness.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

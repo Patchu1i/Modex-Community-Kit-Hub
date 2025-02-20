@@ -1,0 +1,82 @@
+{
+    "[Skyrim] Iron Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Iron Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorIronBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorIronCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorIronGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorIronHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ImperialBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Iron Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Iron Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Iron Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Iron Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Iron Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Iron War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "IronWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Iron Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

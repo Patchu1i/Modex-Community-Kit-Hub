@@ -1,0 +1,70 @@
+{
+    "[TAWOBA] Nord Plate I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Nord Plate I",
+        "Description": "",
+        "Items": {
+            "00SPB_abs_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Bikini Top 01",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_boot_1_heel_lg": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Boots I long",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_gaunts_1_lg": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Gauntlets I long",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_gorget_avent": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Chain Aventail",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_head_gear_1b": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Head Gear I close",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_shoulder_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Pauldron I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Skirt",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SPB_thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Plate Bikini Bottom 01",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Stormlord": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Stormlord",
+        "Description": "",
+        "Items": {
+            "IAStormlordBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormlord Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAStormlordCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormlord Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAStormlordGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormlord Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAStormlordHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormlord Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "[DX] Succubus Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Succubus Armor",
+        "Description": "",
+        "Items": {
+            "DX_Succubus_Amulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Amulet",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Armor",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Earrings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Earrings",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Gloves",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Heels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Heels",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Horns": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Horns",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Shoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Shoulder",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Skirt",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Tail": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Tail",
+                "Plugin": "DX Succubus Armor.esl"
+            },
+            "DX_Succubus_Wings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Succubus Wings",
+                "Plugin": "DX Succubus Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

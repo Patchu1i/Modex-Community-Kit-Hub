@@ -1,0 +1,52 @@
+{
+    "[DX] Daughter of the Sea": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Daughter of the Sea",
+        "Description": "",
+        "Items": {
+            "DX_Pirate_Bandana": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Bandana",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Boots",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Cuirass",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Glove": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Glove",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Necklace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Necklace",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Rings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Rings",
+                "Plugin": "DX Daughter of the Sea.esl"
+            },
+            "DX_Pirate_Tattoo": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daughter of the Sea Tattoo",
+                "Plugin": "DX Daughter of the Sea.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

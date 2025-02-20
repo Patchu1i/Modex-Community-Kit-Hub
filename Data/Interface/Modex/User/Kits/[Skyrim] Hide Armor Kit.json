@@ -1,0 +1,40 @@
+{
+    "[Skyrim] Hide Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Hide Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorHideBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorHideCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorHideGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorHideHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorHideShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Hide Shield",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

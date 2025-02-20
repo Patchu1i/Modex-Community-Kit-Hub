@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Einherjar Plate Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Einherjar Plate Light",
+        "Description": "",
+        "Items": {
+            "IAEinherjarPlateLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Light Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateLightHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

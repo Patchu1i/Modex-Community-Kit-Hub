@@ -1,0 +1,52 @@
+{
+    "[ELLE] ZK Rogue (Cream)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] ZK Rogue (Cream)",
+        "Description": "",
+        "Items": {
+            "ZKRogue_Armlets2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Armlets Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Bodysuit2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Bodysuit Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Boots2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Boots Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Cape2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Hood Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Gloves2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Gloves Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_LegStraps2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue LegStraps Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Pauldrons2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Pauldrons Cream",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

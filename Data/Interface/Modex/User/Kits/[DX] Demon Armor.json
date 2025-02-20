@@ -1,0 +1,58 @@
+{
+    "[DX] Demon Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Demon Armor",
+        "Description": "",
+        "Items": {
+            "DX_Demon_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Armor",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Axe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon War Axe",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Boots",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Cape",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Choker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Choker",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Gauntlets",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Horns": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Horns",
+                "Plugin": "Demon Armor.esl"
+            },
+            "DX_Demon_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Demon Shield",
+                "Plugin": "Demon Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

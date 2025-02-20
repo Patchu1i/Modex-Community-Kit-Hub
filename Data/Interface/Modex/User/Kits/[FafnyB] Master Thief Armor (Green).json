@@ -1,0 +1,52 @@
+{
+    "[FafnyB] Master Thief Armor (Green)": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Master Thief Armor (Green)",
+        "Description": "",
+        "Items": {
+            "000_Master_Thief_Armor_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Armor (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Boots_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Boots (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Gloves_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Gloves (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Hood_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Hood (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Misc_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Misc (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Scabbard_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Scabbard (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Shoulder_Green": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Shoulder (Green)",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

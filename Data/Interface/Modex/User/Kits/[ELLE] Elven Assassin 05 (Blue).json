@@ -1,0 +1,40 @@
+{
+    "[ELLE] Elven Assassin 05 (Blue)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Elven Assassin 05 (Blue)",
+        "Description": "",
+        "Items": {
+            "00EL_AEABelt6": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Belt 6",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEABoots6": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Boots 6",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEADress6": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Dress 6",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAGloves6": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Gloves 6",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAShoulders6": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Shoulders 6",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

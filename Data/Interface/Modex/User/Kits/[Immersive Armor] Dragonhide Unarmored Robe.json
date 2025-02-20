@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dragonhide Unarmored Robe": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragonhide Unarmored Robe",
+        "Description": "",
+        "Items": {
+            "IADragonhideUBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Unarmored Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideUGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Unarmored Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideUHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Unarmored Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideURobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Unarmored Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

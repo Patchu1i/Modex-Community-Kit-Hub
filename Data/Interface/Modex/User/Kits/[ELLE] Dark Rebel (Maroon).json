@@ -1,0 +1,64 @@
+{
+    "[ELLE] Dark Rebel (Maroon)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Dark Rebel (Maroon)",
+        "Description": "",
+        "Items": {
+            "00EL_DarkRebelBeltMaroon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Belt Maroon",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelBodysuitDeepRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Bodysuit Deep Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelBootsRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Boots Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelDressRedOverlay": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Dress Overlay Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelGloveLRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] DarkRebel Glove L Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelGloveRRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] DarkRebel Glove R Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelJacketRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Jacket Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelKneepadsRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Kneepads Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelPantiesRed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Panties Red",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

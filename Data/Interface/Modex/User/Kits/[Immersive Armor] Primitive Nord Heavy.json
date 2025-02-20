@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Primitive Nord Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Primitive Nord Heavy",
+        "Description": "",
+        "Items": {
+            "IAPrimitiveNordHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Heavy Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Heavy Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Heavy Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

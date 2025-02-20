@@ -1,0 +1,46 @@
+{
+    "[Obicnii] Leather Outfit": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Leather Outfit",
+        "Description": "",
+        "Items": {
+            "2_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Belt",
+                "Plugin": "Obi's Leather Outfit.esp"
+            },
+            "2_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Collar",
+                "Plugin": "Obi's Leather Outfit.esp"
+            },
+            "2_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Gauntlets",
+                "Plugin": "Obi's Leather Outfit.esp"
+            },
+            "2_LeatherBra": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Bra",
+                "Plugin": "Obi's Leather Outfit.esp"
+            },
+            "2_LegsV1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Legs V1",
+                "Plugin": "Obi's Leather Outfit.esp"
+            },
+            "2_Stomach": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's LO Stomach",
+                "Plugin": "Obi's Leather Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

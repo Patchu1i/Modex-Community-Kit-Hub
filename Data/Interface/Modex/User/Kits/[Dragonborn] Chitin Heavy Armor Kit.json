@@ -1,0 +1,40 @@
+{
+    "[Dragonborn] Chitin Heavy Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Chitin Heavy Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ArmorChitinHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Heavy Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Heavy Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Heavy Gauntlets",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Heavy Helmet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Chitin Shield",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

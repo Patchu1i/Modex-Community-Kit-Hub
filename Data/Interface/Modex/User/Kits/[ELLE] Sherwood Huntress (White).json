@@ -1,0 +1,34 @@
+{
+    "[ELLE] Sherwood Huntress (White)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Sherwood Huntress (White)",
+        "Description": "",
+        "Items": {
+            "000_SherwoodBoots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sherwood Boots White",
+                "Plugin": "[ELLE] Sherwood Huntress.esp"
+            },
+            "000_SherwoodDress1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sherwood Dress White",
+                "Plugin": "[ELLE] Sherwood Huntress.esp"
+            },
+            "000_SherwoodGloves1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sherwood Gloves White",
+                "Plugin": "[ELLE] Sherwood Huntress.esp"
+            },
+            "000_SherwoodHood1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sherwood Hood White",
+                "Plugin": "[ELLE] Sherwood Huntress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

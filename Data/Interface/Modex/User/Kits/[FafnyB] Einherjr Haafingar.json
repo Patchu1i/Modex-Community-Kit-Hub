@@ -1,0 +1,58 @@
+{
+    "[FafnyB] Einherjr Haafingar": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Einherjr Haafingar",
+        "Description": "",
+        "Items": {
+            "000_Einherjr_Armor_Haafingar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Armor [Haafingar]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Axe_Small": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Small Axe",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Belt",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Boots_Bear": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Boots [Bear]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Bracers_Bear": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Bracers [Bear]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Cloack_Haafingar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Cloack [Haafingar]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Fur_Shoulder_Bear": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Fur Shoulder [Bear]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Shield_Haafingar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Shield [Haafingar]",
+                "Plugin": "[FB] Einherjr.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

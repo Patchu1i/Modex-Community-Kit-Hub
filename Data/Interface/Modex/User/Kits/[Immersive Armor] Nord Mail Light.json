@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Nord Mail Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Nord Mail Light",
+        "Description": "",
+        "Items": {
+            "IANordMailLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailLightBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Light Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailLightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Light Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailLightShirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Shirt",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

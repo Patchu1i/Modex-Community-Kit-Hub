@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Gorm": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Gorm",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitGorm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gorm Armor",
+                "Plugin": "_Fuse00_ArmorGorm.esp"
+            },
+            "_Fuse00_ArmsOutfitGorm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gorm Gauntlets",
+                "Plugin": "_Fuse00_ArmorGorm.esp"
+            },
+            "_Fuse00_BootsOutfitGorm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gorm Boots",
+                "Plugin": "_Fuse00_ArmorGorm.esp"
+            },
+            "_Fuse00_HelmetOutfitGorm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gorm Helmet",
+                "Plugin": "_Fuse00_ArmorGorm.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[4thunknown] Northern God": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Northern God",
+        "Description": "",
+        "Items": {
+            "1NGBattleaxe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "The Judge's Axe",
+                "Plugin": "1NGarmor.esl"
+            },
+            "Armor1NGBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northern God Boots",
+                "Plugin": "1NGarmor.esl"
+            },
+            "Armor1NGCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northern God Cuirass",
+                "Plugin": "1NGarmor.esl"
+            },
+            "Armor1NGGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northern God Gauntlets",
+                "Plugin": "1NGarmor.esl"
+            },
+            "Armor1NGHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northern God Helmet",
+                "Plugin": "1NGarmor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Raven": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Raven",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitRaven": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Raven Armor",
+                "Plugin": "_Fuse00_ArmorRaven.esp"
+            },
+            "_Fuse00_ArmsOutfitRaven": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Raven Gauntlets",
+                "Plugin": "_Fuse00_ArmorRaven.esp"
+            },
+            "_Fuse00_BootssOutfitRaven": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Raven Boots",
+                "Plugin": "_Fuse00_ArmorRaven.esp"
+            },
+            "_Fuse00_MaskOutfitRaven": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Raven Mask",
+                "Plugin": "_Fuse00_ArmorRaven.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

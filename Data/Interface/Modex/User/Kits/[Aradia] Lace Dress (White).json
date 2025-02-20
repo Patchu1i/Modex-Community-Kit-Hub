@@ -1,0 +1,46 @@
+{
+    "[Aradia] Lace Dress (White)": {
+        "ClearEquipped": true,
+        "Collection": "[Aradia] Lace Dress (White)",
+        "Description": "",
+        "Items": {
+            "MinouAradiaLaceDressBraceletsWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Bracelets - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressNeckWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Neck - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressSkirtWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Skirt - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressStokingsWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Stockings - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressThongWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Thong - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressTopWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Top - White",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

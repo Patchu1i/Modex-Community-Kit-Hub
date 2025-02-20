@@ -1,0 +1,88 @@
+{
+    "[DX] Emfy Cleric": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Emfy Cleric",
+        "Description": "",
+        "Items": {
+            "DX_MAC_EmfyClericAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Amulet",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericArmlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Armlets",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Cloak",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Gauntlets",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericHalo": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Halo",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericHeadband": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Headband",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericMace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Mace",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericRobes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Robes",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Shield",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericShoes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Shoes",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Skirt",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericStockings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Cuisse",
+                "Plugin": "Emfy Cleric Robes.esl"
+            },
+            "DX_MAC_EmfyClericUnderwear": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Emfy Cleric Underwear",
+                "Plugin": "Emfy Cleric Robes.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

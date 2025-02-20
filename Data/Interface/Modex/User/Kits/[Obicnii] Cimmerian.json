@@ -1,0 +1,46 @@
+{
+    "[Obicnii] Cimmerian": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Cimmerian",
+        "Description": "",
+        "Items": {
+            "1_CimmerianAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianAmulet",
+                "Plugin": "Obi's Cimmerian.esp"
+            },
+            "1_CimmerianBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianBoots",
+                "Plugin": "Obi's Cimmerian.esp"
+            },
+            "1_CimmerianGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianGloves",
+                "Plugin": "Obi's Cimmerian.esp"
+            },
+            "1_CimmerianShoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianShoulder",
+                "Plugin": "Obi's Cimmerian.esp"
+            },
+            "1_CimmerianTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianTop",
+                "Plugin": "Obi's Cimmerian.esp"
+            },
+            "1_CimmerianWaist": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "CimmerianWaist",
+                "Plugin": "Obi's Cimmerian.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

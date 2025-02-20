@@ -1,0 +1,82 @@
+{
+    "[COCO] Witchiness III (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Witchiness III (SMP)",
+        "Description": "",
+        "Items": {
+            "WitchiRing3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Ring III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltlow3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Lower III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltup3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Upper III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_bra3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Bra III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_glovel3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Glove Left III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_knee3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Knees III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_neckA3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Neck AIII",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_pants3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Panty III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_sho3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoulders III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_shoes3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoes III",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_skirt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Skirt III (SMP)",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_stockA3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Stockings AIII",
+                "Plugin": "[COCO] Witchiness.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[ELLE] Bifrost": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Bifrost",
+        "Description": "",
+        "Items": {
+            "000EL_BIFROSTARMS": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bifrost Pauldrons",
+                "Plugin": "[ELLE] Bifrost.esp"
+            },
+            "000EL_BIFROSTCAPE": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bifrost Cape",
+                "Plugin": "[ELLE] Bifrost.esp"
+            },
+            "000EL_BIFROSTGLOVE": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bifrost Gloves",
+                "Plugin": "[ELLE] Bifrost.esp"
+            },
+            "000EL_BIFROSTHEELS": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bifrost Heels",
+                "Plugin": "[ELLE] Bifrost.esp"
+            },
+            "000EL_BIFROSTTORSO": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bifrost Torso",
+                "Plugin": "[ELLE] Bifrost.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

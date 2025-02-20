@@ -1,0 +1,40 @@
+{
+    "[Fuse00] Inquisitor (No Hair)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Inquisitor (No Hair)",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitInq": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Inquisitor Armor",
+                "Plugin": "_Fuse00_ArmorInquisitor.esp"
+            },
+            "_Fuse00_ArmsOutfitInq": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Inquisitor Gauntlets",
+                "Plugin": "_Fuse00_ArmorInquisitor.esp"
+            },
+            "_Fuse00_BootsOutfitInq": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Inquisitor Boots",
+                "Plugin": "_Fuse00_ArmorInquisitor.esp"
+            },
+            "_Fuse00_CapeOutfitInq": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Inquisitor Cape",
+                "Plugin": "_Fuse00_ArmorInquisitor.esp"
+            },
+            "_Fuse00_HatOutfitInq": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Inquisitor Hat No Hair",
+                "Plugin": "_Fuse00_ArmorInquisitor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

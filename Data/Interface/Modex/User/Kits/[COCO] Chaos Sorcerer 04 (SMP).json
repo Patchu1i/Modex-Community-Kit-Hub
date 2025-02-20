@@ -1,0 +1,70 @@
+{
+    "[COCO] Chaos Sorcerer 04 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Chaos Sorcerer 04 (SMP)",
+        "Description": "",
+        "Items": {
+            "Chaos_armmet3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Arm Metal 03",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_boots3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Boots 03",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_bramet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Bra Metal 01",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_cloak4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Cloak 04 (SMP)",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_glove3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Glove 03",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_legmet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Leg Metal 01",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_panty4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Pants 04",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_ribbonlowsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Ribbon 04 (SMP)",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_top4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Top 04",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            },
+            "Chaos_topribsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Chaos Sorcerer Top Ribbon 04 (SMP)",
+                "Plugin": "[COCO] Chaos Sorcerer.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

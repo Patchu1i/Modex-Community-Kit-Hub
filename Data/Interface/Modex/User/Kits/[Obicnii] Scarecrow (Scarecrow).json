@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Scarecrow (Scarecrow)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Scarecrow (Scarecrow)",
+        "Description": "",
+        "Items": {
+            "1_ScareCrow_FRAMEClothed": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow FRAME Clothed",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_FrameHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Frame Hood",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Pants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Pants",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Rope": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Rope",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_SewnEyes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Sewn Eyes",
+                "Plugin": "Obi's Beldam.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

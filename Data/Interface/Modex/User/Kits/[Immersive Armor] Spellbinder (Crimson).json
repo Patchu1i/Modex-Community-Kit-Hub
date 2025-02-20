@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Spellbinder (Crimson)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Spellbinder (Crimson)",
+        "Description": "",
+        "Items": {
+            "IASpellbinderCrimsonBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Spellbinder Crimson Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASpellbinderCrimsonCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Spellbinder Crimson Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASpellbinderCrimsonGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Spellbinder Crimson Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASpellbinderCrimsonHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Spellbinder Crimson Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

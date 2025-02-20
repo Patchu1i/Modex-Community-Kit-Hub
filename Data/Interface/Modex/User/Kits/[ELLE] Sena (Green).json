@@ -1,0 +1,100 @@
+{
+    "[ELLE] Sena (Green)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Sena (Green)",
+        "Description": "",
+        "Items": {
+            "00EL_ASenaArmbelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Armbelt 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaBelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Belt 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaBoots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Boots 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaBralette1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Bralette 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaBriefs1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Briefs 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaCape1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Cape 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaCorset1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Corset 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaCuff1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Cuff 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaGarter1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Garter 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaHoodOff1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Hood (Off) 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaShawl1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Shawl 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaSkirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Skirt 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaSleeve1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Sleeve 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_ASenaVest1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Vest 1",
+                "Plugin": "[ELLE] Sena.esp"
+            },
+            "00EL_SenaBow1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sena Bow 1",
+                "Plugin": "[ELLE] Sena.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

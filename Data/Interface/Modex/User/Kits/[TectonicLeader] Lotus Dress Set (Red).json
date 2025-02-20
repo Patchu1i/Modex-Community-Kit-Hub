@@ -1,0 +1,52 @@
+{
+    "[TectonicLeader] Lotus Dress Set (Red)": {
+        "ClearEquipped": true,
+        "Collection": "[TectonicLeader] Lotus Dress Set (Red)",
+        "Description": "",
+        "Items": {
+            "BodyR": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Dress R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "CoatR": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Coat R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "HeaddressR": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Head Dress R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "ShoesR_": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Shoes R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "SkirtR_": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Skirt R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "pantsb": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Panty R",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            },
+            "senshu": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Hirosin] Lotus Senshu",
+                "Plugin": "[Tec][Hirosin] Lotus Dress Set.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

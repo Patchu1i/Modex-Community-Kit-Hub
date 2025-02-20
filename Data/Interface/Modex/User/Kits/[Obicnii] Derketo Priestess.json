@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Derketo Priestess": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Derketo Priestess",
+        "Description": "",
+        "Items": {
+            "1_ObiDerketoArms": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Derketo Priestess Arms",
+                "Plugin": "Obi's Derketo Priestess.esp"
+            },
+            "1_ObiDerketoBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Derketo Priestess Boots",
+                "Plugin": "Obi's Derketo Priestess.esp"
+            },
+            "1_ObiDerketoTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Derketo Priestess Top",
+                "Plugin": "Obi's Derketo Priestess.esp"
+            },
+            "1_ObiDerketoWaist": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Derketo Priestess Waist",
+                "Plugin": "Obi's Derketo Priestess.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

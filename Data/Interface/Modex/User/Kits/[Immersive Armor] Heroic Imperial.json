@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Heroic Imperial": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Heroic Imperial",
+        "Description": "",
+        "Items": {
+            "IAHeroicImperialBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Imperial Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicImperialBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Imperial Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicImperialCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Imperial Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicImperialHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Imperial Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

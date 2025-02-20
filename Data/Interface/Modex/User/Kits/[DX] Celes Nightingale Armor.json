@@ -1,0 +1,58 @@
+{
+    "[DX] Celes Nightingale Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Celes Nightingale Armor",
+        "Description": "",
+        "Items": {
+            "DX_MAC_CelesNightingaleBellyPiercing": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Belly Piercing",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Boots",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleBow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Bow",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleBowArrowPoison": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Poison Arrow",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleCuirass3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Cuirass",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Gauntlets",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Hood",
+                "Plugin": "Celes Nightingale Armor.esl"
+            },
+            "DX_MAC_CelesNightingaleStockings1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Nightingale Stockings",
+                "Plugin": "Celes Nightingale Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

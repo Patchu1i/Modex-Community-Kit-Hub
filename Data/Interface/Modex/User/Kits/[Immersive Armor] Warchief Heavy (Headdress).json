@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Warchief Heavy (Headdress)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Warchief Heavy (Headdress)",
+        "Description": "",
+        "Items": {
+            "IAWarchiefHeavyBulwark": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Heavy Bulwark",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefHeavyGrips": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Heavy Grips",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefHeavyHeaddress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Heavy Headdress",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefHeavyStompers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Heavy Stompers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

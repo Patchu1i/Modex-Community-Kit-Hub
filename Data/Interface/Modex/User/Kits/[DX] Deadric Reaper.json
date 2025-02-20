@@ -1,0 +1,58 @@
+{
+    "[DX] Deadric Reaper": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Deadric Reaper",
+        "Description": "",
+        "Items": {
+            "DX_MAC_DaedricReaperBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Boots",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperChoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Choker",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Cuirass",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Gauntlets",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperHoodEmpty": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Hood",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperLeggings1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Leggings",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Skirt",
+                "Plugin": "Daedric Reaper Armor.esl"
+            },
+            "DX_MAC_DaedricReaperSword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Reaper Sword",
+                "Plugin": "Daedric Reaper Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Pulcharmsolis] Ashlander": {
+        "ClearEquipped": true,
+        "Collection": "[Pulcharmsolis] Ashlander",
+        "Description": "",
+        "Items": {
+            "AshlanderSeerBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ashlander Seer Boots",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "AshlanderSeerCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ashlander Seer Robes",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "AshlanderSeerGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ashlander Seer Handwraps",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "AshlanderSeerHelmet3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ashlander Seer Helmet",
+                "Plugin": "Armors of the Velothi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

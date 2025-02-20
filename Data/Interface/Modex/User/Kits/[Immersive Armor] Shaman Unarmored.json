@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Shaman Unarmored": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Shaman Unarmored",
+        "Description": "",
+        "Items": {
+            "IAShamanUBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Unarmored Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanUGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Unarmored Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanUHelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Unarmored Cap",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanURobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Unarmored Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

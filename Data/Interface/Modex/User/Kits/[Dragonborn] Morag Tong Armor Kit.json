@@ -1,0 +1,34 @@
+{
+    "[Dragonborn] Morag Tong Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Morag Tong Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2MoragTongBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morag Tong Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2MoragTongCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morag Tong Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2MoragTongGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morag Tong Bracers",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2MoragTongHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morag Tong Hood",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

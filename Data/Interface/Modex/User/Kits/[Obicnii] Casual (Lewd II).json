@@ -1,0 +1,28 @@
+{
+    "[Obicnii] Casual (Lewd II)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Casual (Lewd II)",
+        "Description": "",
+        "Items": {
+            "1_ObiCasualPantiesLEWD": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Panties LEWD",
+                "Plugin": "Obi's Casual Outfit.esp"
+            },
+            "1_ObiCasualShirtLEWD2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Shirt LEWD v2",
+                "Plugin": "Obi's Casual Outfit.esp"
+            },
+            "1_ObiCasualSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Skirt",
+                "Plugin": "Obi's Casual Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

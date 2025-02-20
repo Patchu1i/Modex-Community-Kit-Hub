@@ -1,0 +1,34 @@
+{
+    "[OperatorCactus] Dark Witch": {
+        "ClearEquipped": true,
+        "Collection": "[OperatorCactus] Dark Witch",
+        "Description": "",
+        "Items": {
+            "ArmorHedgeWitchBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Witch Boots",
+                "Plugin": "DarkWitch.esp"
+            },
+            "ArmorHedgeWitchDress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Witch Armor",
+                "Plugin": "DarkWitch.esp"
+            },
+            "ArmorHedgeWitchGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Witch Gauntlets",
+                "Plugin": "DarkWitch.esp"
+            },
+            "HedgeWitchAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Witch Amethyst Amulet",
+                "Plugin": "DarkWitch.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

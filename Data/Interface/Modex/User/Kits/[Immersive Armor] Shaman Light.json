@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Shaman Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Shaman Light",
+        "Description": "",
+        "Items": {
+            "IAShamanLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanLGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Light Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanLHelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Light Cap",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAShamanLRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Shaman Light Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

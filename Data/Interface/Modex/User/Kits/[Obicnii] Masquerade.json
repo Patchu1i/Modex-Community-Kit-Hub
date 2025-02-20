@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Masquerade": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Masquerade",
+        "Description": "",
+        "Items": {
+            "1_MasqueradeCollar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Masquerade Collar",
+                "Plugin": "Obi's Masquerade.esp"
+            },
+            "1_MasqueradeJacket": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Masquerade Jacket",
+                "Plugin": "Obi's Masquerade.esp"
+            },
+            "1_MasqueradeMask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Masquerade Mask",
+                "Plugin": "Obi's Masquerade.esp"
+            },
+            "1_MasqueradePants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Masquerade Pants",
+                "Plugin": "Obi's Masquerade.esp"
+            },
+            "1_MasqueradeShoes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Masquerade Shoes",
+                "Plugin": "Obi's Masquerade.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

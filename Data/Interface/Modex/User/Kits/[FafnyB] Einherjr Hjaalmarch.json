@@ -1,0 +1,58 @@
+{
+    "[FafnyB] Einherjr Hjaalmarch": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Einherjr Hjaalmarch",
+        "Description": "",
+        "Items": {
+            "000_Einherjr_Armor_Hjaalmarch": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Armor [Hjaalmarch]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Axe_Small": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Small Axe",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Belt",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Boots_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Boots [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Bracers_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Bracers [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Cloack_Hjaalmarch": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Cloack [Hjaalmarch]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Fur_Shoulder_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Fur Shoulder [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Shield_Hjaalmarch": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Shield [Hjaalmarch]",
+                "Plugin": "[FB] Einherjr.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

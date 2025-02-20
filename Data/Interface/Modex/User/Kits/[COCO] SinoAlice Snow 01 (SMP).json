@@ -1,0 +1,82 @@
+{
+    "[COCO] SinoAlice Snow 01 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] SinoAlice Snow 01 (SMP)",
+        "Description": "",
+        "Items": {
+            "Sinoalice_Hair01smp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Hair 01 (SMP)",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_TOP": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Top",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_Weapon01": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Weapon 01",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Boots",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_glove": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Glove",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_glovem": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Glove Metal",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_hua": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Flower",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_kneem": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Knee Metal",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_mid": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Mid",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_skirtaa": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Skirt A",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_skirtsmp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Skirt B01 (SMP)",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            },
+            "Sinoalice_waistmaa": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Sinoalice Waist Metal",
+                "Plugin": "[COCO]SinoAlice Snow.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

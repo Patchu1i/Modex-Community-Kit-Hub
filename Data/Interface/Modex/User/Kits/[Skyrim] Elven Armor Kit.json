@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Elven Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Elven Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorElvenBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorElvenCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorElvenGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorElvenHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorElvenShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Elven Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Elven Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Elven Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Elven Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Elven Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Elven Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Elven Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Elven War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "ElvenWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Elven Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

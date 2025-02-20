@@ -1,0 +1,40 @@
+{
+    "[Fuse00] Wayward Knight (Clothing) (White)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Wayward Knight (Clothing) (White)",
+        "Description": "",
+        "Items": {
+            "a0WaywardKnightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Boots",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Gloves",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightInner": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Innerwear",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightSkirtSMPC3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 3 Skirt - SMP",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightTopC3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 3 Top",
+                "Plugin": "ahzWaywardKnight.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

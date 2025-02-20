@@ -1,0 +1,40 @@
+{
+    "[Skyrim] Scaled Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Scaled Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorScaledBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scaled Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorScaledCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scaled Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorScaledCuirassB": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Scaled Horn Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorScaledGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scaled Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorScaledHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scaled Helmet",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

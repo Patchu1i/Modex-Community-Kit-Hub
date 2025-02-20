@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Orcish Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Orcish Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorOrcishBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorOrcishCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorOrcishGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorOrcishHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorOrcishShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Orcish Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Orcish Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Orcish Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Orcish Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Orcish Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Orcish Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Orcish Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Orcish War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "OrcishWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Orcish Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

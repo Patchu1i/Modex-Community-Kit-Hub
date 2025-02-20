@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Morthal": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Morthal",
+        "Description": "",
+        "Items": {
+            "0_Morthal_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Breastplate",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Morthal_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Morthal_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Morthal_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Morthal_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Morthal_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_WarAxe_Morthal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morthal War Axe",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

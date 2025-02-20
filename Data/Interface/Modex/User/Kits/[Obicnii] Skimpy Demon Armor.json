@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Skimpy Demon Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Skimpy Demon Armor",
+        "Description": "",
+        "Items": {
+            "1_SkimpyDemonGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SkimpyDemonLongGloves",
+                "Plugin": "Obi's SkimpyDemonArmor.esp"
+            },
+            "1_SkimpyDemonHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SkimpyDemonHeels",
+                "Plugin": "Obi's SkimpyDemonArmor.esp"
+            },
+            "1_SkimpyDemonThighs": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SkimpyDemonThighs",
+                "Plugin": "Obi's SkimpyDemonArmor.esp"
+            },
+            "1_SkimpyDemonTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SkimpyDemonTop",
+                "Plugin": "Obi's SkimpyDemonArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

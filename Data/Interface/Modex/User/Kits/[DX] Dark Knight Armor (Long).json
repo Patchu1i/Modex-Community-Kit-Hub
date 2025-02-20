@@ -1,0 +1,46 @@
+{
+    "[DX] Dark Knight Armor (Long)": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Dark Knight Armor (Long)",
+        "Description": "",
+        "Items": {
+            "DX_DarkKnight_Amulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Amulet",
+                "Plugin": "DX Dark Knight Armor.esl"
+            },
+            "DX_DarkKnight_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Boots",
+                "Plugin": "DX Dark Knight Armor.esl"
+            },
+            "DX_DarkKnight_CuirassPants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Cuirass Pants",
+                "Plugin": "DX Dark Knight Armor.esl"
+            },
+            "DX_DarkKnight_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Gauntlets",
+                "Plugin": "DX Dark Knight Armor.esl"
+            },
+            "DX_DarkKnight_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Helmet",
+                "Plugin": "DX Dark Knight Armor.esl"
+            },
+            "DX_DarkKnight_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dark Knight Shield",
+                "Plugin": "DX Dark Knight Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

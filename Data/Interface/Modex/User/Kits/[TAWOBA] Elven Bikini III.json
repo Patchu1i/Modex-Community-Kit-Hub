@@ -1,0 +1,76 @@
+{
+    "[TAWOBA] Elven Bikini III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Elven Bikini III",
+        "Description": "",
+        "Items": {
+            "00EVB_abs_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Abs III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_bikini_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Bikini Top III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_boots_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Boots II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_facecl": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Faceguard close",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_should_5_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Pauldron V L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_should_5_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Pauldron V R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_spine": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Spine Guard",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_tasset_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Tasset  IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_thigh_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Thigh III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_thong_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Bikini Bottom III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00Evb_gaunt_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Elven Gauntlets II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

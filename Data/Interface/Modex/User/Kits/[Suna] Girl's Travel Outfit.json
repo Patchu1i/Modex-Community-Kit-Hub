@@ -1,0 +1,34 @@
+{
+    "[Suna] Girl's Travel Outfit": {
+        "ClearEquipped": true,
+        "Collection": "[Suna] Girl's Travel Outfit",
+        "Description": "",
+        "Items": {
+            "GTOBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Girl's Travel Boots",
+                "Plugin": "Girl's Travel Outfit.esp"
+            },
+            "GTOchoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Girl's Travel Choker",
+                "Plugin": "Girl's Travel Outfit.esp"
+            },
+            "GTOgloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Girl's Travel Gloves",
+                "Plugin": "Girl's Travel Outfit.esp"
+            },
+            "GTOtorso": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Girl's Travel Outfit",
+                "Plugin": "Girl's Travel Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

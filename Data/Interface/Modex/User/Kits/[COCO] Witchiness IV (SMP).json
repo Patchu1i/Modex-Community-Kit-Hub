@@ -1,0 +1,88 @@
+{
+    "[COCO] Witchiness IV (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Witchiness IV (SMP)",
+        "Description": "",
+        "Items": {
+            "WitchiRing4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Ring IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltlow4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Lower IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_beltup4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Belt Upper IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_bra4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Bra IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_glovel4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Glove Left IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_glover4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Glove Right IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_knee4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Knees IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_neckA4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Neck AIV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_pants4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Panty IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_sho4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoulders IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_shoes4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Shoes IV",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_skirt4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Skirt IV (SMP)",
+                "Plugin": "[COCO] Witchiness.esp"
+            },
+            "Witchi_stockA4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Witch Stockings AIV",
+                "Plugin": "[COCO] Witchiness.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

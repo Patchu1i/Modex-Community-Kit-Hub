@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Snow Bear": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Snow Bear",
+        "Description": "",
+        "Items": {
+            "IASnowBearBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow Bear Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASnowBearCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow Bear Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASnowBearGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow Bear Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASnowBearHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow Bear Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASnowBearShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow Bear Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

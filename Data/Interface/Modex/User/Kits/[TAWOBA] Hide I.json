@@ -1,0 +1,70 @@
+{
+    "[TAWOBA] Hide I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Hide I",
+        "Description": "",
+        "Items": {
+            "00HBA_Tasset": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Tasset",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Belt",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Long Boots",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_cooll": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Collar",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_gaunt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Gloves",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_hotpants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Short Pants 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_neckcover": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Neckcover",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_pauldron1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Pauldron 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_thigh1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00HBA_top": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hide Top",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

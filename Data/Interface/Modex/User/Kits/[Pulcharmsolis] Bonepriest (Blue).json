@@ -1,0 +1,34 @@
+{
+    "[Pulcharmsolis] Bonepriest (Blue)": {
+        "ClearEquipped": true,
+        "Collection": "[Pulcharmsolis] Bonepriest (Blue)",
+        "Description": "",
+        "Items": {
+            "BonepriestBlueCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bonepriest Blue Robes",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "BonepriestBlueHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bonepriest Blue Helmet",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "BonepriestBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bonepriest Boots",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "BonepriestGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bonepriest Beaded Bracelet",
+                "Plugin": "Armors of the Velothi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

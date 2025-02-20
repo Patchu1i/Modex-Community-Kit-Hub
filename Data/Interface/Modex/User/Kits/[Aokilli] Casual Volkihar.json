@@ -1,0 +1,52 @@
+{
+    "[Aokilli] Casual Volkihar": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Casual Volkihar",
+        "Description": "",
+        "Items": {
+            "VolkiharAssasin_Denim_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Boots",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_Bracer": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkiharr Bracer",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Collar",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Cuirass",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Gauntlets",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_StockingChest": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Stocking Chest",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Denim_Stockings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Volkihar Stockings",
+                "Plugin": "VolkiharAssasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

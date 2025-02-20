@@ -1,0 +1,70 @@
+{
+    "[COCO] Shadow Assassin": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Shadow Assassin",
+        "Description": "",
+        "Items": {
+            "Assassin_corset1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Corset",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Glove",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_heels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Heels",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_horn1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Horn",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_legbelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Leg Belt",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_mask1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Mask",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_necklace1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Necklace",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_panti1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Panty",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_tailfullsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Tail (SMP)",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            },
+            "Assassin_underwear1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Assassin Underwear",
+                "Plugin": "[COCO] Shadow Assassin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

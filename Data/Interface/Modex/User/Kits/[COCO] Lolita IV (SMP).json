@@ -1,0 +1,40 @@
+{
+    "[COCO] Lolita IV (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Lolita IV (SMP)",
+        "Description": "",
+        "Items": {
+            "Lolitav1_Vest04": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Vest IV",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_gloves04": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Gloves IV",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_smpskirt04": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Skirt IV (SMP)",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_stocking04": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Stockings IV",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_top04": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Top IV",
+                "Plugin": "[COCO] Lolita.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

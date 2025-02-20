@@ -1,0 +1,52 @@
+{
+    "[ELLE] Dominique": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Dominique",
+        "Description": "",
+        "Items": {
+            "00EL_DominiqueBelt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Belt",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiqueBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Boots",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiqueGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Gloves",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiqueHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Hood",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiquePants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Shorts",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiqueThigh": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Thigh",
+                "Plugin": "[ELLE] Dominique.esp"
+            },
+            "00EL_DominiqueTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dominique Top",
+                "Plugin": "[ELLE] Dominique.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

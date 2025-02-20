@@ -1,0 +1,70 @@
+{
+    "[COCO] Demon Shade 05 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Demon Shade 05 (SMP)",
+        "Description": "",
+        "Items": {
+            "Demon_bodyfu5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Body Full 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_bra5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Bra 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_glove5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Glove 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_hairsmp5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Hair 5 (SMP)",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_heels5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Heels 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_horn5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Horn 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_mask5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Mask 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_panties5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Panties 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_stock5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Stocking 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_tail5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Tail 5",
+                "Plugin": "[COCO] Demon Shade.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

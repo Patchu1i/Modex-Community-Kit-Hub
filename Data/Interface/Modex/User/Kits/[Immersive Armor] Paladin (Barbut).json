@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Paladin (Barbut)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Paladin (Barbut)",
+        "Description": "",
+        "Items": {
+            "IAPaladinBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Paladin Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPaladinCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Paladin Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPaladinGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Paladin Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPaladinHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Paladin Barbut",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPaladinShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Paladin Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

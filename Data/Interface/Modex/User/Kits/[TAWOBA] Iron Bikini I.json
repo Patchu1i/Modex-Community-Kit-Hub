@@ -1,0 +1,88 @@
+{
+    "[TAWOBA] Iron Bikini I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Iron Bikini I",
+        "Description": "",
+        "Items": {
+            "00BIB_Bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_Faceguard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Faceguard",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_abs_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_circlet_1_hornA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Circlet Horned A",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gorget_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gorget II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_shoulder_1_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Pauldron I L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_shoulder_1_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Pauldron I R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_spine_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Spine I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_tasset_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Tasset I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Bottom I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

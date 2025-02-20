@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Boiled Chitin Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Boiled Chitin Heavy",
+        "Description": "",
+        "Items": {
+            "IABoiledChitinHBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinHCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Heavy Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinHGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Heavy Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinHHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Heavy Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinHShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Heavy Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

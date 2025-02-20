@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Einherjar Brigandine Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Einherjar Brigandine Light",
+        "Description": "",
+        "Items": {
+            "IAEinherjarBrigandineLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineLightBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Light Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Light Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineLightHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

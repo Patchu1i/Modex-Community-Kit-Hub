@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Imperial Knight": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Imperial Knight",
+        "Description": "",
+        "Items": {
+            "IAImperialKnightCape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Knight Cape",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAImperialKnightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Knight Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAImperialKnightGreaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Knight Greaves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAImperialKnightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Knight Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAImperialKnightVambraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Knight Vambraces",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

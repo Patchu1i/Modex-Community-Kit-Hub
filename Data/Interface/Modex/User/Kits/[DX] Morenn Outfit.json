@@ -1,0 +1,46 @@
+{
+    "[DX] Morenn Outfit": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Morenn Outfit",
+        "Description": "",
+        "Items": {
+            "DX_Morenn_Amulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Amulet",
+                "Plugin": "DX Morenn Outfit.esl"
+            },
+            "DX_Morenn_ArmStrapsCloth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Arm Straps & Cloth",
+                "Plugin": "DX Morenn Outfit.esl"
+            },
+            "DX_Morenn_LegStrapsCloth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Leg Straps & Cloth",
+                "Plugin": "DX Morenn Outfit.esl"
+            },
+            "DX_Morenn_MushroomBag": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Mushroom Bag",
+                "Plugin": "DX Morenn Outfit.esl"
+            },
+            "DX_Morenn_Staff": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Staff",
+                "Plugin": "DX Morenn Outfit.esl"
+            },
+            "DX_Morenn_VinesCloth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morenn Vines & Cloth",
+                "Plugin": "DX Morenn Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "[DX] Chocolate Bunny": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Chocolate Bunny",
+        "Description": "",
+        "Items": {
+            "DX_ChocolateBunny_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Boots",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_CandyCane": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Candy Cane",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Collar2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Collar with Bell",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Ears": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Ears",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Gloves",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Ribbon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Ribbon",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Skirt",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Socks1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Socks",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_ChocolateBunny_Top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chocolate Bunny Top",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

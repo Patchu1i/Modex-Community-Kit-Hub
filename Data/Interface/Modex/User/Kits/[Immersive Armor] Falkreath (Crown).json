@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Falkreath (Crown)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Falkreath (Crown)",
+        "Description": "",
+        "Items": {
+            "IAFalkreathBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAFalkreathCrown": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Crown",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAFalkreathCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAFalkreathGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAFalkreathShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

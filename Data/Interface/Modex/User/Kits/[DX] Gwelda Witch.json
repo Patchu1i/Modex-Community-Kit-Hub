@@ -1,0 +1,46 @@
+{
+    "[DX] Gwelda Witch": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Gwelda Witch",
+        "Description": "",
+        "Items": {
+            "DX_MAC_GweldaWitchChoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Amulet",
+                "Plugin": "Gwelda Witch.esl"
+            },
+            "DX_MAC_GweldaWitchCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Cloak",
+                "Plugin": "Gwelda Witch.esl"
+            },
+            "DX_MAC_GweldaWitchDressModest": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Dress Modest",
+                "Plugin": "Gwelda Witch.esl"
+            },
+            "DX_MAC_GweldaWitchGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Bracers",
+                "Plugin": "Gwelda Witch.esl"
+            },
+            "DX_MAC_GweldaWitchHoodBadApple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Hood Bad Apple",
+                "Plugin": "Gwelda Witch.esl"
+            },
+            "DX_MAC_GweldaWitchTrousers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Witch Boots with Trousers",
+                "Plugin": "Gwelda Witch.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Skyrim] Penitus Oculatus Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Penitus Oculatus Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorPenitusBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Penitus Oculatus Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorPenitusCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Penitus Oculatus Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorPenitusGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Penitus Oculatus Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorPenitusHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Penitus Oculatus Helmet",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

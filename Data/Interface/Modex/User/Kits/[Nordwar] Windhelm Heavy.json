@@ -1,0 +1,40 @@
+{
+    "[Nordwar] Windhelm Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Windhelm Heavy",
+        "Description": "",
+        "Items": {
+            "0_Sword_Windhelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Windhelm Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Windhelm_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Windhelm Heavy Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Windhelm_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Windhelm Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Windhelm_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Windhelm Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Windhelm_Shield_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Windhelm Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

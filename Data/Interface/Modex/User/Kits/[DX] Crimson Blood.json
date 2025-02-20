@@ -1,0 +1,70 @@
+{
+    "[DX] Crimson Blood": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Crimson Blood",
+        "Description": "",
+        "Items": {
+            "DX_CrimsonBlood_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Boots",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Choker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Choker",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Collar",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Cuirass",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Earrings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Earrings",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_MaskHigh": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Mask (high)",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Rapier": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Rapier",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Ring": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Ring",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Shoulders": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Shoulders",
+                "Plugin": "Crimson Blood Armor.esl"
+            },
+            "DX_CrimsonBlood_Tasset": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Blood Tasset",
+                "Plugin": "Crimson Blood Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

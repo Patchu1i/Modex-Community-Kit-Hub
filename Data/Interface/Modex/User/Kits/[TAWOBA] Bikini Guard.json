@@ -1,0 +1,34 @@
+{
+    "[TAWOBA] Bikini Guard": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Bikini Guard",
+        "Description": "",
+        "Items": {
+            "00Miscbikibas": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bikini Guard Helmet",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00Miscbikifeet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bikini Guard Shoes",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00Miscbikiglv": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bikini Guard Gloves",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00Miscbikiguard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bikini Guard Armor",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "[Dragonborn] Nordic Carved Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Nordic Carved Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ArmorNordicHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorNordicHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorNordicHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Gauntlets",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorNordicHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Helmet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicBattleaxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Nordic Battleaxe",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Nordic Bow",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Nordic Dagger",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Nordic Greatsword",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicMace": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Nordic Mace",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Nordic Sword",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Nordic War Axe",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2NordicWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Nordic Warhammer",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

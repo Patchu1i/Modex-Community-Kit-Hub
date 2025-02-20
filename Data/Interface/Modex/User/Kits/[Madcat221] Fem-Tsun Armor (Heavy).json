@@ -1,0 +1,28 @@
+{
+    "[Madcat221] Fem-Tsun Armor (Heavy)": {
+        "ClearEquipped": true,
+        "Collection": "[Madcat221] Fem-Tsun Armor (Heavy)",
+        "Description": "",
+        "Items": {
+            "ArmorTsunBootsHEAVY": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Heavy Boots",
+                "Plugin": "FemTsunArmor.esp"
+            },
+            "ArmorTsunCuirassHEAVY": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Heavy Armor",
+                "Plugin": "FemTsunArmor.esp"
+            },
+            "ArmorTsunRingBracersHEAVY": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Heavy Ring Bracers",
+                "Plugin": "FemTsunArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

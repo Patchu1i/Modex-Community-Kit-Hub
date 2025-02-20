@@ -1,0 +1,52 @@
+{
+    "[Obicnii] Scarecrow (Pumpkin)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Scarecrow (Pumpkin)",
+        "Description": "",
+        "Items": {
+            "1_ScareCrow_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Boots",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Gloves",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Pants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Pants",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_PumpkinHead": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow PumpkinHead",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Rope": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Rope",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_SewnEyes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Sewn Eyes",
+                "Plugin": "Obi's Beldam.esp"
+            },
+            "1_ScareCrow_Shirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "ScareCrow Shirt",
+                "Plugin": "Obi's Beldam.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

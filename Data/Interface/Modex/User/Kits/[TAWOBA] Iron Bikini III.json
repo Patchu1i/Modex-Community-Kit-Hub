@@ -1,0 +1,88 @@
+{
+    "[TAWOBA] Iron Bikini III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Iron Bikini III",
+        "Description": "",
+        "Items": {
+            "00BIB_Bikini_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Top III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_abs_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Abs III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_boots_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Boots III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_chestguard_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Chest Reinforcement I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gauntlets_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gauntlets III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gorget_3_C": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gorget III c",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_horn_B": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Horn B",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_shoulder_4_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Pauldron IV L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_shoulder_4_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Pauldron IV R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_spine_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Spine I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_tasset_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Tasset III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thigh_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Thigh III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thong_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Bottom III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

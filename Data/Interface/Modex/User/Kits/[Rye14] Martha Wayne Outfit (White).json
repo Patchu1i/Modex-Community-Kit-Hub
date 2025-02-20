@@ -1,0 +1,34 @@
+{
+    "[Rye14] Martha Wayne Outfit (White)": {
+        "ClearEquipped": true,
+        "Collection": "[Rye14] Martha Wayne Outfit (White)",
+        "Description": "",
+        "Items": {
+            "MarthaWayne_Dress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Martha Wayne Dress",
+                "Plugin": "Martha Wayne Outfit.esp"
+            },
+            "MarthaWayne_Furjacket": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Martha Wayne Furjacket",
+                "Plugin": "Martha Wayne Outfit.esp"
+            },
+            "MarthaWayne_Heels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Martha Wayne Heels",
+                "Plugin": "Martha Wayne Outfit.esp"
+            },
+            "MarthaWayne_Jewels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Martha Wayne Jewels",
+                "Plugin": "Martha Wayne Outfit.esp"
+            }
+        },
+        "ReadOnly": false
+    }
+}

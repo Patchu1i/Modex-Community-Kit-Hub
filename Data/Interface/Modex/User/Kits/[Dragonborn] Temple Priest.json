@@ -1,0 +1,22 @@
+{
+    "[Dragonborn] Temple Priest": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Temple Priest",
+        "Description": "",
+        "Items": {
+            "DLC2TemplePriestBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Temple Priest Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2TemplePriestHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Temple Priest Hood",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

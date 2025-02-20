@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Traveling Mage (Hood)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Traveling Mage (Hood)",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Outfit",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_ArmsOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Gauntlets",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_BootsOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Boots",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_HoodOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Hood",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

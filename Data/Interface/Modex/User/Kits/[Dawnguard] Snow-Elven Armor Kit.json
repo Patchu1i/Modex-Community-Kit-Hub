@@ -1,0 +1,34 @@
+{
+    "[Dawnguard] Snow-Elven Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dawnguard] Snow-Elven Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC1IvoryBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow-Elven Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1IvoryCrown": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow-Elven Crown",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1IvoryCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow-Elven Cuirass",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1IvoryGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Snow-Elven Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

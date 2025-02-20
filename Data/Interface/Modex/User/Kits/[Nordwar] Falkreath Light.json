@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Falkreath Light": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Falkreath Light",
+        "Description": "",
+        "Items": {
+            "0_Falkreath_Armor_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Light Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Falkreath_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Falkreath_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Falkreath_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Falkreath_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Light Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Falkreath_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_WarAxe_Falkreath": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falkreath War Axe",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

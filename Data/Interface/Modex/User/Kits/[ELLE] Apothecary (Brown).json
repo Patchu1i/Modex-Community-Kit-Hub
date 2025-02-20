@@ -1,0 +1,46 @@
+{
+    "[ELLE] Apothecary (Brown)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Apothecary (Brown)",
+        "Description": "",
+        "Items": {
+            "00EL_AApothecaryBelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Apothecary Belt",
+                "Plugin": "[ELLE] Apothecary.esp"
+            },
+            "00EL_AApothecaryBoots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Apothecary Boots",
+                "Plugin": "[ELLE] Apothecary.esp"
+            },
+            "00EL_AApothecaryHood1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Apothecary Hood",
+                "Plugin": "[ELLE] Apothecary.esp"
+            },
+            "00EL_AApothecaryShorts1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Apothecary Shorts",
+                "Plugin": "[ELLE] Apothecary.esp"
+            },
+            "00EL_AApothecaryTop1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Apothecary Top",
+                "Plugin": "[ELLE] Apothecary.esp"
+            },
+            "00EL_Book_ApothecaryCM": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "[ELLE] Apothecary Crafting Manual",
+                "Plugin": "[ELLE] Apothecary.esp"
+            }
+        },
+        "ReadOnly": false
+    }
+}

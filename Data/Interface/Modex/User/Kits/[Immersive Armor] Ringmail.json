@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Ringmail": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ringmail",
+        "Description": "",
+        "Items": {
+            "IARingmailBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ringmail Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARingmailBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ringmail Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARingmailCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ringmail Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARingmailHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ringmail Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

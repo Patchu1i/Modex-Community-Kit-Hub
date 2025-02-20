@@ -1,0 +1,88 @@
+{
+    "[COCO] Joan Of Arc I (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Joan Of Arc I (SMP)",
+        "Description": "",
+        "Items": {
+            "JoanOfArc_bellmetal1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Bell Metal I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_fur1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Fur I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Glove I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_glovelow1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Glove Low I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_gloveup1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Glove Up I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_jacket1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Jacket I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_mask1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Mask I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_qipaosmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Qipao I (SMP)",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Shoes I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Stocking I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_sword1w": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "JoanOfArc Sword I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_topmet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Top Metal I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            },
+            "JoanOfArc_waistmet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] JoanOfArc Waist Metal I",
+                "Plugin": "[COCO] Joan Of Arc.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

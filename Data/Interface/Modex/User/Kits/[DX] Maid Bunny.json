@@ -1,0 +1,64 @@
+{
+    "[DX] Maid Bunny": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Maid Bunny",
+        "Description": "",
+        "Items": {
+            "DX_MaidBunny_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Boots",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_CandyCane": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Candy Cane",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Collar1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Collar",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Ears": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Ears",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Gloves",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Ribbon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Ribbon",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Skirt",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Socks": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Socks",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_MaidBunny_Top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Maid Bunny Top",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

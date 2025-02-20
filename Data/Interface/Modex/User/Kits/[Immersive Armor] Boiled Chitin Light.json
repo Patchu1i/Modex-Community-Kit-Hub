@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Boiled Chitin Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Boiled Chitin Light",
+        "Description": "",
+        "Items": {
+            "IABoiledChitinLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinLCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Light Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinLGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinLHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Light Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABoiledChitinLShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Boiled Chitin Light Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

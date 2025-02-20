@@ -1,0 +1,58 @@
+{
+    "[Dawnguard] Falmer Heavy Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Dawnguard] Falmer Heavy Armor",
+        "Description": "",
+        "Items": {
+            "DLC1ArmorFAlmerHardenedHelmet": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Hardened Helm",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFAlmerHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Helm",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHardenedBoots": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Hardened Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHardenedCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Hardened Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHardenedGauntlets": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Falmer Hardened Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorFalmerHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

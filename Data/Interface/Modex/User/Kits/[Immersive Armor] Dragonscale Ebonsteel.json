@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Dragonscale Ebonsteel": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragonscale Ebonsteel",
+        "Description": "",
+        "Items": {
+            "IADragonEbonLHelmClaw": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Ebonsteel Claw Helm",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonLShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Ebonsteel Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonSleekBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Ebonsteel Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonSleekCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Ebonsteel Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonSleekGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Ebonsteel Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

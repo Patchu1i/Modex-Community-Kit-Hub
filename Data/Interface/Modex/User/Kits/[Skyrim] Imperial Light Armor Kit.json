@@ -1,0 +1,52 @@
+{
+    "[Skyrim] Imperial Light Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Imperial Light Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorImperialLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Light Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Light Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Light Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Light Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "ImperialBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "Imperialsword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Imperial Sword",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

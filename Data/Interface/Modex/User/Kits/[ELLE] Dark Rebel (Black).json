@@ -1,0 +1,52 @@
+{
+    "[ELLE] Dark Rebel (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Dark Rebel (Black)",
+        "Description": "",
+        "Items": {
+            "00EL_DarkRebelBeltBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Belt Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelBodysuitBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Bodysuit Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelBootsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Boots Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelDressBlackOverlay": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Dress Overlay Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelJacketBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Jacket Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelKneepadsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Kneepads Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            },
+            "00EL_DarkRebelPantiesBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dark Rebel Panties Black",
+                "Plugin": "[ELLE] Dark Rebel.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

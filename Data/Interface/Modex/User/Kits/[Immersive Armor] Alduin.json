@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Alduin": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Alduin",
+        "Description": "",
+        "Items": {
+            "IAAlduinBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Alduin Scale Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAlduinCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Alduin Scale Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAlduinGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Alduin Scale Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAlduinHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Alduin Scale Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

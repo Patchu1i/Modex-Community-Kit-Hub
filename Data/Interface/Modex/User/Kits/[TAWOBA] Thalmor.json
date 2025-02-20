@@ -1,0 +1,46 @@
+{
+    "[TAWOBA] Thalmor": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Thalmor",
+        "Description": "",
+        "Items": {
+            "00EVB_boots_1tha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_gorge_1tha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor Neck Cover",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_hood_I": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor Hood I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_robe_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor robe",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EVB_thong_1tha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor Bikini bottom",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00Evb_gaunt_1tha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Thalmor Glove",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

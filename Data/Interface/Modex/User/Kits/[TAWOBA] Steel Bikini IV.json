@@ -1,0 +1,70 @@
+{
+    "[TAWOBA] Steel Bikini IV": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Steel Bikini IV",
+        "Description": "",
+        "Items": {
+            "00SBA_Tasset_2_a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Tasset 2 A",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_Thigh_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Thigh IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_Thong_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Bikini Bottom IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_abs_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Abs IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_bikini_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Bikini Top IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_boots_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Boots IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_gauntlets_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Gauntlets IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_gorget_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Gorget IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_helm_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Head Gear IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_targe_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Targe I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

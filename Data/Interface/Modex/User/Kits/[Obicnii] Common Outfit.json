@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Common Outfit": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Common Outfit",
+        "Description": "",
+        "Items": {
+            "1_Obi_CommonBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Common Boots",
+                "Plugin": "ObiCommonOutfit.esp"
+            },
+            "1_Obi_CommonHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Common Hood",
+                "Plugin": "ObiCommonOutfit.esp"
+            },
+            "1_Obi_CommonPants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Common Pants",
+                "Plugin": "ObiCommonOutfit.esp"
+            },
+            "1_Obi_CommonTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Common Top",
+                "Plugin": "ObiCommonOutfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "[Immersive Armor] Mercenary": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Mercenary",
+        "Description": "",
+        "Items": {
+            "IAMercenaryBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Mercenary Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAMercenaryCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Mercenary Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAMercenaryGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Mercenary Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

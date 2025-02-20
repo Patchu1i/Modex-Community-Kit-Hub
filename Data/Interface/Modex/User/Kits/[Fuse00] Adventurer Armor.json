@@ -1,0 +1,40 @@
+{
+    "[Fuse00] Adventurer Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Adventurer Armor",
+        "Description": "",
+        "Items": {
+            "_Fuse00_Adv_BackP_Armo": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Adventurer Backpack",
+                "Plugin": "_Fuse00_AdventurerArmor.esp"
+            },
+            "_Fuse00_Adv_Body_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Adventurer Armor",
+                "Plugin": "_Fuse00_AdventurerArmor.esp"
+            },
+            "_Fuse00_Adv_Boots_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Adventurer Boots",
+                "Plugin": "_Fuse00_AdventurerArmor.esp"
+            },
+            "_Fuse00_Adv_Gloves_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Adventurer Gauntlets",
+                "Plugin": "_Fuse00_AdventurerArmor.esp"
+            },
+            "_Fuse00_Adv_Hood_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Adventurer Hood",
+                "Plugin": "_Fuse00_AdventurerArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

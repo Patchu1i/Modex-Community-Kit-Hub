@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Glacial Crystal Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Glacial Crystal Heavy",
+        "Description": "",
+        "Items": {
+            "IAGlacialCrystalHBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalHCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Heavy Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalHGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Heavy Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalHHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Heavy Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalHShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Heavy Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

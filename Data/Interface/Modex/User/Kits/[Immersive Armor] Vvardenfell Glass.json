@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Vvardenfell Glass": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Vvardenfell Glass",
+        "Description": "",
+        "Items": {
+            "IAVvardenfellGlassBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vvardenfell Glass Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVvardenfellGlassCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vvardenfell Glass Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVvardenfellGlassGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vvardenfell Glass Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVvardenfellGlassHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vvardenfell Glass Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVvardenfellGlassShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vvardenfell Glass Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

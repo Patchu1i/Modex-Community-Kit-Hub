@@ -1,0 +1,52 @@
+{
+    "[ELLE] ZK Rogue (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] ZK Rogue (Black)",
+        "Description": "",
+        "Items": {
+            "ZKRogue_Armlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Armlets",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Bodysuit": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Bodysuit",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Boots",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Hood",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Gloves",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_LegStraps": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue LegStraps",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            },
+            "ZKRogue_Pauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] ZK Rogue Pauldrons",
+                "Plugin": "[ELLE] ZK Rogue.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

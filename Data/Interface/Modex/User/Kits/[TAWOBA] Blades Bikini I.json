@@ -1,0 +1,76 @@
+{
+    "[TAWOBA] Blades Bikini I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Blades Bikini I",
+        "Description": "",
+        "Items": {
+            "00BBA_Bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Bikini top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_Gorget_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Gorget I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_Tasset_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Tasset I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_Thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_Thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Bikini Bottom I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_abs_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_gaunt_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_helm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Helmet",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_shoulder_1_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Pauldron I L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BBA_shoulder_1_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Pauldron I R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

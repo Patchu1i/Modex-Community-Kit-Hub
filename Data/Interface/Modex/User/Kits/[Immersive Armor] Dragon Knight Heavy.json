@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Dragon Knight Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragon Knight Heavy",
+        "Description": "",
+        "Items": {
+            "IADragonKnightCuirassFull": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Heavy Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightGauntlets2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightHBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightHHelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Heavy Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightHShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Heavy Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

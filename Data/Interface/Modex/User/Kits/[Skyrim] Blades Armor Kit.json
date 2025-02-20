@@ -1,0 +1,46 @@
+{
+    "[Skyrim] Blades Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Blades Armor Kit",
+        "Description": "",
+        "Items": {
+            "AkaviriKatana": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Blades Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBladesBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBladesCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBladesGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBladesHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Blades Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBladesShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Blades Shield",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

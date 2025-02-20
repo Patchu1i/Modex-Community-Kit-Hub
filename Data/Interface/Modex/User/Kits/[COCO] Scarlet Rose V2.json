@@ -1,0 +1,64 @@
+{
+    "[COCO] Scarlet Rose V2": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Scarlet Rose V2",
+        "Description": "",
+        "Items": {
+            "Rose_braNo1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Bra V2",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_handguard1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Hand Guards",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_neckfull1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Neck V2",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_necklace1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Necklace",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_panty1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Panty",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Shoes",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_shouder1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Shoulder Armor",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_skirtback1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Skirt V2",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            },
+            "Rose_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Scarlet Rose Stockings",
+                "Plugin": "[COCO] Scarlet Rose.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

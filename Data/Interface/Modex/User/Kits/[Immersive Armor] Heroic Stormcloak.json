@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Heroic Stormcloak": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Heroic Stormcloak",
+        "Description": "",
+        "Items": {
+            "IAHeroicStormcloakBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Stormcloak Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicStormcloakCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Stormcloak Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicStormcloakGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Stormcloak Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHeroicStormcloakHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heroic Stormcloak Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

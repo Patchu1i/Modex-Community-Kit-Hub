@@ -1,0 +1,28 @@
+{
+    "[ELLE] Abyss (Gold)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Abyss (Gold)",
+        "Description": "",
+        "Items": {
+            "00EL_AbyssArmletGold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Armlet Gold",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssDressWhiteGold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Dress White Gold",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssShoesGold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Shoes Gold",
+                "Plugin": "[ELLE] Abyss.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

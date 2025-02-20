@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Apotheus": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Apotheus",
+        "Description": "",
+        "Items": {
+            "IAApotheusBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Apotheus Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAApotheusCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Apotheus Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAApotheusGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Apotheus Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAApotheusHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Apotheus Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAApotheusScarf": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Apotheus Scarf",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

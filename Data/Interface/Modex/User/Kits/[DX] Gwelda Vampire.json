@@ -1,0 +1,52 @@
+{
+    "[DX] Gwelda Vampire": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Gwelda Vampire",
+        "Description": "",
+        "Items": {
+            "DX_MAC_GweldaVampireArmlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Armlets",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireChoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Choker",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Cloak",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireDress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Dress",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Gloves",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireHoodBlackSoul": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Hood Black Soul",
+                "Plugin": "Gwelda Vampire.esl"
+            },
+            "DX_MAC_GweldaVampireTrousers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Vampire Boots with Trousers",
+                "Plugin": "Gwelda Vampire.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

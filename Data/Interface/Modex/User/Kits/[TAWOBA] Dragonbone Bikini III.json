@@ -1,0 +1,88 @@
+{
+    "[TAWOBA] Dragonbone Bikini III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Dragonbone Bikini III",
+        "Description": "",
+        "Items": {
+            "00DBA_Bikini_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Bikini Top III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Chestguard_bone": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Chest Reinforcement",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Facemask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Facemask",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Gorget_1_C": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Gorget I C",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Mask_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Mask II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Shoulder_3_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Pauldron III L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Shoulder_3_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Pauldron III R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_Thong_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Bikini Bottom III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_abs_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Abs III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_boots_1_lg": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Boots 1 lg",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_tasset_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Tasset III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DBA_thigh_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Bone Thigh III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

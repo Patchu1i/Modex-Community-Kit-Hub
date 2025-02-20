@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dwarven Mage Unarmored": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dwarven Mage Unarmored",
+        "Description": "",
+        "Items": {
+            "IADwarvenMageUBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Unarmored Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageUGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Unarmored Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageUHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Unarmored Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageURobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Unarmored Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Traveling Mage (Lowered)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Traveling Mage (Lowered)",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Outfit",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_ArmsOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Gauntlets",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_BootsOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Boots",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            },
+            "_Fuse00_HoodDownOutfitTMage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Traveling Mage Hood lowered down",
+                "Plugin": "_Fuse00_ArmorTravelingMageCloth.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "[Obicnii] Nightshade Mistress (Nightshade)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Nightshade Mistress (Nightshade)",
+        "Description": "",
+        "Items": {
+            "1_NightShadeMistress_Earrings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Earrings",
+                "Plugin": "NightshadeMistress.esp"
+            },
+            "1_NightShadeMistress_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nightshade Mistress Gloves",
+                "Plugin": "NightshadeMistress.esp"
+            },
+            "1_NightShadeMistress_Heels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": " Nightshade Mistress Heels",
+                "Plugin": "NightshadeMistress.esp"
+            },
+            "1_NightShadeMistress_MaskNS": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nightshade Mistress Mask [Nightshade]",
+                "Plugin": "NightshadeMistress.esp"
+            },
+            "1_NightShadeMistress_Shoulders": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nightshade Mistress Shoulders",
+                "Plugin": "NightshadeMistress.esp"
+            },
+            "1_NightShadeMistress_Torso": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nightshade Mistress Top",
+                "Plugin": "NightshadeMistress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

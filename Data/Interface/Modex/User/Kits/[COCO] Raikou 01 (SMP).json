@@ -1,0 +1,88 @@
+{
+    "[COCO] Raikou 01 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Raikou 01 (SMP)",
+        "Description": "",
+        "Items": {
+            "Raikou_belt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Belt 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_boots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Boots 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_clothlowsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou ClothLow 01 (SMP)",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_clothtopsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou ClothTop 01 (SMP)",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_elbow1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Elbow 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Glove 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_hairsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Hair 01 (SMP)",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_linelowA1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou LineLowA 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_linelowB1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou LineLowB 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_linetop1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou LineTop 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_pants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Pants 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_tights1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Tights 01",
+                "Plugin": "[COCO]Raikou.esp"
+            },
+            "Raikou_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Raikou Top 01",
+                "Plugin": "[COCO]Raikou.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

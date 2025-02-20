@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Steel Plate Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Steel Plate Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorSteelPlateBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Plate Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorSteelPlateCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Plate Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorSteelPlateGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Plate Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorSteelPlateHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Plate Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorSteelShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Steel Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "ImperialBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Steel Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Steel Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Steel Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Steel Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Steel Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Steel War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "SteelWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Steel Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "[COCO] KDAAO Evelynn I (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] KDAAO Evelynn I (SMP)",
+        "Description": "",
+        "Items": {
+            "EVEall_bodybeltlow1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Body Belt Low I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_bodybelttop1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Body Belt Top I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_bra1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Bra I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_bracelet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Bracelet I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_hairsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Hair I (SMP)",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_heels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Heels I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_jacket1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Jacket I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_nails1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Nails I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_panties1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Panties I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Skirt I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Stockings I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            },
+            "EVEall_tail1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] EVE Tail I",
+                "Plugin": "[COCO] KDA AO Evelynn.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

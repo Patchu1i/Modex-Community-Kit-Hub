@@ -1,0 +1,70 @@
+{
+    "[TAWOBA] Dwarven Bikini Cyborg": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Dwarven Bikini Cyborg",
+        "Description": "",
+        "Items": {
+            "00DWA_Cyborg3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Cyborg Body",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_Tasset_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Tasset II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_Thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_Thong_7": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Bikini Bottom V",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_abs_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Abs III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_collar3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Collar III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_headdress_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Head Dress",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_shoulder_3_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Pauldron III L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_shoulder_3_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Pauldron III R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00DWA_targe_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Targe I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

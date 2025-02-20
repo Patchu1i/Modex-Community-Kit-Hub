@@ -1,0 +1,82 @@
+{
+    "[Aokilli] Lavatera (Golden)": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Lavatera (Golden)",
+        "Description": "",
+        "Items": {
+            "Lavatera_Gold_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Cuirass",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Gauntlets",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Gorget": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Gorget",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Greaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Greaves",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Helmet",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Leotard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Leotard",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Pauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Pauldrons",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Sabatons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Sabatons",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Skirt",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Sleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Sleeves",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Vambraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Vambraces",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Gold_Wristguard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Golden Lavatera Wristguard",
+                "Plugin": "LavateraArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

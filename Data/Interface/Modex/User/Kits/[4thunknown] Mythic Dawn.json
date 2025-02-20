@@ -1,0 +1,64 @@
+{
+    "[4thunknown] Mythic Dawn": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Mythic Dawn",
+        "Description": "",
+        "Items": {
+            "1NDmorgenstern": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Morgenstern",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn boots",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDBoots2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn boots",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn cuirass",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDCuirass2": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "mythic dawn cuirass",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn gauntlets",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDGauntlets2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn gauntlets",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn helmet",
+                "Plugin": "1NDArmor.esl"
+            },
+            "Armor1NDHelmet2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "mythic dawn helmet",
+                "Plugin": "1NDArmor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

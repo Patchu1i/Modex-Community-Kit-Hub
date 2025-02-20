@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Nord Mail Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Nord Mail Heavy",
+        "Description": "",
+        "Items": {
+            "IANordMailHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailHeavyBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Heavy Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailHeavyHauberk": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Hauberk",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IANordMailHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nord Mail Heavy Coif",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

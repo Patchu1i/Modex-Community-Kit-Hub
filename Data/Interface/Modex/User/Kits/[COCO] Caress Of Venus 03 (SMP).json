@@ -1,0 +1,76 @@
+{
+    "[COCO] Caress Of Venus 03 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Caress Of Venus 03 (SMP)",
+        "Description": "",
+        "Items": {
+            "Venus_brasmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Bra 03 (SMP)",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venus_leggin3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Leggings 03",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venus_lowsmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Skirt 03 (SMP)",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venus_neck2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Collar 02",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_Circle3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Circlet 03",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_gloveA1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Gloves A1",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_gloveB3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Gloves B3",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_gloveC3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Gloves C3",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_headwear3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Headwear 03",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_shoes3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Shoes 03",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            },
+            "Venuss_shouder3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] CoV Shoulder Armor 03",
+                "Plugin": "[COCO] CaressofVenus.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

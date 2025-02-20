@@ -1,0 +1,88 @@
+{
+    "[TAWOBA] Wolf Bikini I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Wolf Bikini I",
+        "Description": "",
+        "Items": {
+            "00WBA_Bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Bikini Top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Facemask1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Facemask I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Gorget_cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Cape",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Harness": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Harness",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Pelt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Pelt",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Shoulder_1_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Pauldron I L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Shoulder_1_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Pauldron I R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Tasset_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Tasset I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_Thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Bikini Bottom I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_abs_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00WBA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

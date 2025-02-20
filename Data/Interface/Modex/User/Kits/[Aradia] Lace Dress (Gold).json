@@ -1,0 +1,46 @@
+{
+    "[Aradia] Lace Dress (Gold)": {
+        "ClearEquipped": true,
+        "Collection": "[Aradia] Lace Dress (Gold)",
+        "Description": "",
+        "Items": {
+            "MinouAradiaLaceDressBracelets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Bracelets - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressNeck": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Neck - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Skirt - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressStokings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Stockings - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressThong": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Thong - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Top - Gold",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

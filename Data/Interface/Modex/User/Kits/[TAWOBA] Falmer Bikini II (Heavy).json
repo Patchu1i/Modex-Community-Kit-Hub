@@ -1,0 +1,82 @@
+{
+    "[TAWOBA] Falmer Bikini II (Heavy)": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Falmer Bikini II (Heavy)",
+        "Description": "",
+        "Items": {
+            "00FBA_Bikini_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Bikini Top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Gorget_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Gorget I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_MISC_fishnet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bikini Fishnet",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Shoulder_hev_1L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Pauldron I L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Shoulder_hev_1R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Pauldron I R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Tasset_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Tasset I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_abs_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_boots_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_chaurus": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Back Chaurus",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_gauntlets_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_head_crown_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Chaurus Crown",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_head_mask_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Mask I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

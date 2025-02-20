@@ -1,0 +1,82 @@
+{
+    "[COCO] Succubus (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Succubus (SMP)",
+        "Description": "",
+        "Items": {
+            "cocoweapon2a_succ": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Blade",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_brama1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Bra Metal A",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_bramb1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Bra Metal B",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_corset1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Corset",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Glove",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_hornm1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Horns M",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_neck1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Collar",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_ribbon1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Ribbon",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_shoesA1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Shoes A",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_shouder1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Shoulder",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Skirt",
+                "Plugin": "[COCO]Succubus.esp"
+            },
+            "succ_stockA1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Succubus Stocking A",
+                "Plugin": "[COCO]Succubus.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

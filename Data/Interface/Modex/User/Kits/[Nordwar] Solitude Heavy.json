@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Solitude Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Solitude Heavy",
+        "Description": "",
+        "Items": {
+            "0_Solitude_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Heavy Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Boots_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Heavy Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Gauntlets_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Heavy Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Helmet_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Heavy Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Solitude": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

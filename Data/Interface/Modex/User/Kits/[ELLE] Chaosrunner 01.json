@@ -1,0 +1,76 @@
+{
+    "[ELLE] Chaosrunner 01": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Chaosrunner 01",
+        "Description": "",
+        "Items": {
+            "00EL_CRArmStraps1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Arm Straps 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRBoots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Boots 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRCollar1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Collar 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CREars1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Ears",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRFeathers1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Feathers 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRGloves1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Gloves 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRHoodHair1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Hood Hair 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRPanties1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Panties 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRPants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Pants 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRPauldrons1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Pauldrons 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            },
+            "00EL_CRTop1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Chaos Top 1",
+                "Plugin": "[ELLE] Chaosrunner.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "[Nordwar] Imperial Rusted": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Imperial Rusted",
+        "Description": "",
+        "Items": {
+            "DIS_Imperial_Cloack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Cloak",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Rust_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rust Boots",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Rust_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rust Armor",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Rust_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rust Gauntlets",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Rust_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rust Helmet",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Rust_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rust Shield",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "[ELLE] SK Shinobi (White)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] SK Shinobi (White)",
+        "Description": "",
+        "Items": {
+            "00EL_SK_Belt4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Belt 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Earrings4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Earrings 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Gloves4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Gloves 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Greaves4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Greaves 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Hairpin4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Hairpin 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Mask4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Mask 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Pauldrons4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Pauldrons 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Scarf4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Scarf 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Scroll4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Scroll 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Shoes4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Shoes 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Socks4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Socks 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Thighband4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Thighband 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Top4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Bodysuit 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            },
+            "00EL_SK_Vambraces4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] SK Shinobi Vambraces 4",
+                "Plugin": "[ELLE] SK Shinobi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[DX] Gwelda Red Riding Hood": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Gwelda Red Riding Hood",
+        "Description": "",
+        "Items": {
+            "DX_MAC_GweldaRedHoodBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Red Riding Hood Boots",
+                "Plugin": "Gwelda Red Riding Hood.esl"
+            },
+            "DX_MAC_GweldaRedHoodBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Red Riding Hood Bracers",
+                "Plugin": "Gwelda Red Riding Hood.esl"
+            },
+            "DX_MAC_GweldaRedHoodCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Red Riding Hood Cloak",
+                "Plugin": "Gwelda Red Riding Hood.esl"
+            },
+            "DX_MAC_GweldaRedHoodDress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Red Riding Hood Dress",
+                "Plugin": "Gwelda Red Riding Hood.esl"
+            },
+            "DX_MAC_GweldaRedHoodHoodEmpty": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Red Riding Hood Empty",
+                "Plugin": "Gwelda Red Riding Hood.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

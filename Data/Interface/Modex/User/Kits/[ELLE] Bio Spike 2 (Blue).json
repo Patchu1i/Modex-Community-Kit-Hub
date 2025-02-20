@@ -1,0 +1,52 @@
+{
+    "[ELLE] Bio Spike 2 (Blue)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Bio Spike 2 (Blue)",
+        "Description": "",
+        "Items": {
+            "00EL_BS_Blindfold2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Blindfold 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Bodice2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Bodice 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Gloves2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Gloves 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Greaves2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Greaves 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Mask2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Mask 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Shoes2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Shoes 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            },
+            "00EL_BS_Vambraces2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Bio Spike Vambraces 2",
+                "Plugin": "[ELLE] Bio Spike.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

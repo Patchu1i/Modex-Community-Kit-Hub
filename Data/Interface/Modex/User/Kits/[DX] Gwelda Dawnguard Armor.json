@@ -1,0 +1,58 @@
+{
+    "[DX] Gwelda Dawnguard Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Gwelda Dawnguard Armor",
+        "Description": "",
+        "Items": {
+            "DX_MAC_GweldaDawnguardArmlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Armlets",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardArmor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Cuirass",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Boots",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardChoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Choker",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Cloak",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Gauntlets",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Helmet",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            },
+            "DX_MAC_GweldaDawnguardTrousers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gwelda Dawnguard Trousers",
+                "Plugin": "Gwelda Dawnguard Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

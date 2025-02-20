@@ -1,0 +1,40 @@
+{
+    "[ELLE] Elven Assassin 04 (Chain)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Elven Assassin 04 (Chain)",
+        "Description": "",
+        "Items": {
+            "00EL_AEABelt5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Belt 5",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEABoots5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Boots 5",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEADress5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Dress 5",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAGloves5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Gloves 5",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAShoulders5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Shoulders 5",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

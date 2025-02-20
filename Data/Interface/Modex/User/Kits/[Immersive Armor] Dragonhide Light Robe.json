@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dragonhide Light Robe": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragonhide Light Robe",
+        "Description": "",
+        "Items": {
+            "IADragonhideLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideLGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideLHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideLRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Light Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

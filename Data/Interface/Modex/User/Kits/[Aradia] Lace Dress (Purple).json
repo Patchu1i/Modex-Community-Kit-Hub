@@ -1,0 +1,46 @@
+{
+    "[Aradia] Lace Dress (Purple)": {
+        "ClearEquipped": true,
+        "Collection": "[Aradia] Lace Dress (Purple)",
+        "Description": "",
+        "Items": {
+            "MinouAradiaLaceDressBraceletsPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Bracelets - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressNeckPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Neck - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressSkirtPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Skirt - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressStokingsPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Stockings - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressThongPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Thong - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressTopPurple": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Top - Purple",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

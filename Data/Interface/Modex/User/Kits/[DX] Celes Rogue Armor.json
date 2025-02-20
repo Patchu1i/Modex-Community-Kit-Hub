@@ -1,0 +1,64 @@
+{
+    "[DX] Celes Rogue Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Celes Rogue Armor",
+        "Description": "",
+        "Items": {
+            "DX_CelesRogue_Bag": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Bag",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Belt",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Boots",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Choker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Choker",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Cuirass",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Dagger": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Dagger",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Bracers",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Mask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Mask",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            },
+            "DX_CelesRogue_Skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Rogue Skirt",
+                "Plugin": "Celes Rogue Armor UNP.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

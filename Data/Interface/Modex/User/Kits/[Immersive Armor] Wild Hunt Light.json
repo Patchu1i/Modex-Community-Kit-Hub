@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Wild Hunt Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Wild Hunt Light",
+        "Description": "",
+        "Items": {
+            "IABosmerHuntLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Hunt Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHuntLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Hunt Light Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHuntLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Hunt Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHuntLightHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Hunt Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

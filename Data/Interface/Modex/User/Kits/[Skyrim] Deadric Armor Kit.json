@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Deadric Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Deadric Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorDaedricBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDaedricCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDaedricGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDaedricHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDaedricShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Daedric Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Daedric Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Daedric Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Daedric Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Daedric Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Daedric Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Daedric Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Daedric War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DaedricWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Daedric Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

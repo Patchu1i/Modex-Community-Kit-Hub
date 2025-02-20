@@ -1,0 +1,40 @@
+{
+    "[Nordwar] Chainmail": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Chainmail",
+        "Description": "",
+        "Items": {
+            "DIS_Chainmail_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chainmail Boots",
+                "Plugin": "DIS_Chainmail_Armor.esp"
+            },
+            "DIS_Chainmail_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chainmail Cuirass",
+                "Plugin": "DIS_Chainmail_Armor.esp"
+            },
+            "DIS_Chainmail_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chainmail Gauntlets",
+                "Plugin": "DIS_Chainmail_Armor.esp"
+            },
+            "DIS_Chainmail_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Light Steel Helmet",
+                "Plugin": "DIS_Chainmail_Armor.esp"
+            },
+            "DIS_Shield_LightShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Light Shield",
+                "Plugin": "DIS_Chainmail_Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

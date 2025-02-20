@@ -1,0 +1,46 @@
+{
+    "[DX] Celes Tarot Outfit": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Celes Tarot Outfit",
+        "Description": "",
+        "Items": {
+            "DX_CelesTarot_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Boots",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            },
+            "DX_CelesTarot_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Cape",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            },
+            "DX_CelesTarot_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Gloves",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            },
+            "DX_CelesTarot_Horns": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Horns",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            },
+            "DX_CelesTarot_Mask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Mask",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            },
+            "DX_CelesTarot_TightsArchmage": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Tarot Archmage Tights",
+                "Plugin": "Celes Tarot Outfit Cloth UNP.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

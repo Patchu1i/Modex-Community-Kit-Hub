@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Glacial Crystal Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Glacial Crystal Light",
+        "Description": "",
+        "Items": {
+            "IAGlacialCrystalLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalLCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Light Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalLGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalLHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Light Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAGlacialCrystalLShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Glacial Crystal Light Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

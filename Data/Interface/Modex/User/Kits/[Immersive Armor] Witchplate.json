@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Witchplate": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Witchplate",
+        "Description": "",
+        "Items": {
+            "IAWitchplateBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witchplate Greaves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWitchplateCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witchplate Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWitchplateGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witchplate Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWitchplateHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witchplate Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

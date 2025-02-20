@@ -1,0 +1,40 @@
+{
+    "[ELLE] Devil Parade": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Devil Parade",
+        "Description": "",
+        "Items": {
+            "00EL_DevilParadeBootsGold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Devil Parade Boots Gold",
+                "Plugin": "[ELLE] Devil Parade.esp"
+            },
+            "00EL_DevilParadeGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Devil Parade Gauntlets",
+                "Plugin": "[ELLE] Devil Parade.esp"
+            },
+            "00EL_DevilParadeHorns": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Devil Parade Horns",
+                "Plugin": "[ELLE] Devil Parade.esp"
+            },
+            "00EL_DevilParadeSuitGold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Devil Parade Suit Gold",
+                "Plugin": "[ELLE] Devil Parade.esp"
+            },
+            "00EL_DevilParadeWings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Devil Parade Wings",
+                "Plugin": "[ELLE] Devil Parade.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "[COCO] Flying Dance (White)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Flying Dance (White)",
+        "Description": "",
+        "Items": {
+            "FD_umbrella1zz": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "FD Umbrella 01",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FD_umbrella2zz": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "FD Umbrella 02",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_arm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Arm Ribbon",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_crown": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Crown",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_fur": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Fur",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Gloves",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_hair": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Hair",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_leg": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Leg Metal",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_necklace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Necklace",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_panty": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Briefs",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_ring": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Feet Ring",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_shoes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Heels",
+                "Plugin": "[COCO] FlyinDance.esp"
+            },
+            "FlyinDance_upper": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "FlyinDance Cheongsam",
+                "Plugin": "[COCO] FlyinDance.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

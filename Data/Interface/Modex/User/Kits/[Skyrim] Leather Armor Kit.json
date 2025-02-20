@@ -1,0 +1,46 @@
+{
+    "[Skyrim] Leather Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Leather Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorLeatherBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorLeatherCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorLeatherGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorLeatherHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "FollowerHuntingBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Hunting Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "MQTorturerHood": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Leather Hood",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

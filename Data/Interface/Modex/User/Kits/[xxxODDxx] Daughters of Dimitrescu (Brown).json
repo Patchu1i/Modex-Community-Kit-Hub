@@ -1,0 +1,64 @@
+{
+    "[xxxODDxx] Daughters of Dimitrescu (Brown)": {
+        "ClearEquipped": true,
+        "Collection": "[xxxODDxx] Daughters of Dimitrescu (Brown)",
+        "Description": "",
+        "Items": {
+            "00DDBottom1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Bottom",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDCollar1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Collar",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDGarterBelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Garter Belt",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDGloves1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Gloves",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDHeels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Heels",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDNecklace1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Necklace",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDSkirt2A": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Skirt (SMP Physics)",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDStockings1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Stockings",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            },
+            "00DDTopHoodless1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[OddX] Daughters of Dimitrescu Top Hoodless",
+                "Plugin": "Daughters of Dimitrescu.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

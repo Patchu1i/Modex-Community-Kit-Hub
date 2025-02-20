@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Dwarven Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Dwarven Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorDwarvenBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDwarvenCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDwarvenGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDwarvenHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDwarvenShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Dwarven Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Dwarven Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenSword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Dwarven War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DwarvenWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dwarven Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

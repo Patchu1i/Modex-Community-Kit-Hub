@@ -1,0 +1,64 @@
+{
+    "[COCO] Goddess War 03": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Goddess War 03",
+        "Description": "",
+        "Items": {
+            "Goddess_War3_Bundle1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Bundle 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_arm1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Arm 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_boots2a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Boots B 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_bra1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Bra 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Glove 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_pants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Panty 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_ribbon1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Ribbon 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "Goddess_War3_waist": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Waist 03",
+                "Plugin": "[COCO]Goddess War.esp"
+            },
+            "cocoweapon2a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War Polearm 01",
+                "Plugin": "[COCO]Goddess War.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

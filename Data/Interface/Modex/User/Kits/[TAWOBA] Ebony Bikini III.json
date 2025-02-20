@@ -1,0 +1,70 @@
+{
+    "[TAWOBA] Ebony Bikini III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Ebony Bikini III",
+        "Description": "",
+        "Items": {
+            "00EBA_Bikini_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Bikini Top III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_Mask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mask",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_abs_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Abs II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_boots1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Boots",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_gaunt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Gauntlets",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_harness": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Harness",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_shoulder_3_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Pauldron III L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_shoulder_3_R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Pauldron III R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_skirt_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Skirt",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00EBA_thong_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Thong III",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

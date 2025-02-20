@@ -1,0 +1,46 @@
+{
+    "[Pulcharmsolis] Redoran Watchman": {
+        "ClearEquipped": true,
+        "Collection": "[Pulcharmsolis] Redoran Watchman",
+        "Description": "",
+        "Items": {
+            "RedoranWatchmanBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Boots",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RedoranWatchmanBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Bracers",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RedoranWatchmanCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Cloak",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RedoranWatchmanCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Armor",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RedoranWatchmanHelmet2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Helmet",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RedoranWatchmanShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Redoran Watchman Shield",
+                "Plugin": "Armors of the Velothi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

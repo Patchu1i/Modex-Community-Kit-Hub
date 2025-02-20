@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Nocturnal Noir (White)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Nocturnal Noir (White)",
+        "Description": "",
+        "Items": {
+            "1_CollarW": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[NN] Collar White",
+                "Plugin": "Nocturnal Noir Outfit.esp"
+            },
+            "1_CorsetW": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[NN] Corset White",
+                "Plugin": "Nocturnal Noir Outfit.esp"
+            },
+            "1_GauntletsW": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[NN] Gauntlets White",
+                "Plugin": "Nocturnal Noir Outfit.esp"
+            },
+            "1_PantyhoseW": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[NN] Pantyhose White",
+                "Plugin": "Nocturnal Noir Outfit.esp"
+            },
+            "1_SkirtW": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[NN] Skirt White",
+                "Plugin": "Nocturnal Noir Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Bosmer Reinforced": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Bosmer Reinforced",
+        "Description": "",
+        "Items": {
+            "IABosmerFullCape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Full Cape",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Reinforced Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Reinforced Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Reinforced Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Reinforced Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

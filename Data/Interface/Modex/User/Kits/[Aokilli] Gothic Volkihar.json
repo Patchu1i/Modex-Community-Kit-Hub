@@ -1,0 +1,52 @@
+{
+    "[Aokilli] Gothic Volkihar": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Gothic Volkihar",
+        "Description": "",
+        "Items": {
+            "VolkiharAssasin_Leather_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Boots",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_Bracer": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkiharr Bracer",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Collar",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Cuirass",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Gauntlets",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_StockingChest": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Stocking Chest",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Leather_Stockings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gothic Volkihar Stockings",
+                "Plugin": "VolkiharAssasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

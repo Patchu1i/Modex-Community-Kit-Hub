@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Tribunal Light (Blue)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Tribunal Light (Blue)",
+        "Description": "",
+        "Items": {
+            "IATribunalLightBootsBlue": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Light Boots Blue",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalLightGlovesBlue": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Light Gloves Blue",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalLightHoodBlue": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Light Hood Blue",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalLightRobeBlueCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Light Mantle Blue",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

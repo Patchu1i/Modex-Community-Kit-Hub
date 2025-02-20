@@ -1,0 +1,88 @@
+{
+    "[TAWOBA] Nord Carved I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Nord Carved I",
+        "Description": "",
+        "Items": {
+            "00NordicCarvedAbs1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Abs Guard 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedBack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Spine Guard",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedBikini1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Bikini 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedBoots2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Foot Plating",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedCirclet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Face Guard 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedGloves1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Gloves",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedLeggings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Leggings",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedNeck": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Neck Protector",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedPauldrons1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Pauldrons 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedScarf": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Scarf",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedTassets1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Tassets 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedThighs": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Thigh Guards",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00NordicCarvedThong1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Nordic Carved Thong 1",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

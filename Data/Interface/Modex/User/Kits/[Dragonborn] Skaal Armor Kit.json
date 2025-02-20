@@ -1,0 +1,46 @@
+{
+    "[Dragonborn] Skaal Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Skaal Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ClothesSkaalBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Skaal Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ClothesSkaalCoat": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Skaal Coat",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ClothesSkaalGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Skaal Gloves",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ClothesSkaalHat": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Skaal Hat",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2SkaalAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Skaal Amulet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2SkaalVillagerOutfit": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Skaal Villager's Outfit",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

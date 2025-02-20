@@ -1,0 +1,28 @@
+{
+    "[Immersive Armor] Hunter": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Hunter",
+        "Description": "",
+        "Items": {
+            "IAHunterBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hunter Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHunterBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hunter Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHunterCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hunter Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

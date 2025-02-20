@@ -1,0 +1,76 @@
+{
+    "[TAWOBA] Orcish III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Orcish III",
+        "Description": "",
+        "Items": {
+            "00OCA_BP_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Breast Plate I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_Thigh_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Thigh II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_Thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Thong Bottom I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_abs_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Abs II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_boots_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Boots II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_gorget_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Gorget II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_helm_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Scout Helmet",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_shoulder_L_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Pauldron III L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_shoulder_R_3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Pauldron III R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00OCA_tasset_1_hv": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Orcish Tasset I hv",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

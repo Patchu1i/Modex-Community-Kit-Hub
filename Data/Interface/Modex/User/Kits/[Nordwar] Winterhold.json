@@ -1,0 +1,40 @@
+{
+    "[Nordwar] Winterhold": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Winterhold",
+        "Description": "",
+        "Items": {
+            "0_WarAxe_Winterhold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Winterhold War Axe",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Winterhold_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Winterhold Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Winterhold_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Winterhold Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Winterhold_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Winterhold Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Winterhold_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Winterhold Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "[ELLE] Knight Elaine (Green)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Knight Elaine (Green)",
+        "Description": "",
+        "Items": {
+            "00EL_KE_Armbands3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Armbands 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Belt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Belt 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Boots3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Boots 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_ChestArmour3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Chest Armour 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Corset3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Corset 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_DressLonger3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Dress Longer 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Forearms3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Forearms 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Glove3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Glove 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Hair": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Hair",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_LegArmour3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Leg Armour 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Neck3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Neck 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Pauldron3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Pauldron 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            },
+            "00EL_KE_Thighband3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Knight Elaine Thighband 3",
+                "Plugin": "[ELLE] Knight Elaine.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "[ELLE] Roca (Olive)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Roca (Olive)",
+        "Description": "",
+        "Items": {
+            "00EL_ARocaEarrings5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Earrings 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaEars5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Ears 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaGloves5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Gloves 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaHair5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Hair 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaPants5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Pants 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaShoes5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Shoes 5",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaTail": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Tail",
+                "Plugin": "[ELLE] Roca.esp"
+            },
+            "00EL_ARocaTop5": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Roca Top 5",
+                "Plugin": "[ELLE] Roca.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Obicnii] HeadHunter": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] HeadHunter",
+        "Description": "",
+        "Items": {
+            "1_HeadHunter_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "HeadHunter Boots",
+                "Plugin": "Obi's HeadHunter Armor.esp"
+            },
+            "1_HeadHunter_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "HeadHunter Cuirass",
+                "Plugin": "Obi's HeadHunter Armor.esp"
+            },
+            "1_HeadHunter_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "HeadHunter Gauntlets",
+                "Plugin": "Obi's HeadHunter Armor.esp"
+            },
+            "1_HeadHunter_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "HeadHunter Helmet",
+                "Plugin": "Obi's HeadHunter Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

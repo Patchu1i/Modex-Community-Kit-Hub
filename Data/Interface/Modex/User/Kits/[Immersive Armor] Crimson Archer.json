@@ -1,0 +1,28 @@
+{
+    "[Immersive Armor] Crimson Archer": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Crimson Archer",
+        "Description": "",
+        "Items": {
+            "IACrimsonArcherBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Archer Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IACrimsonArcherCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Archer Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IACrimsonArcherGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Archer Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

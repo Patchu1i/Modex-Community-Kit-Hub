@@ -1,0 +1,76 @@
+{
+    "[DX] Druid Armor": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Druid Armor",
+        "Description": "",
+        "Items": {
+            "DX_Druid_Bow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Bow",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_BowArrow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Arrow",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Bracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Bracers",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Branches": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Branches",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Cape",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Cuirass",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Footwraps": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Footwraps",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Leggings1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Panties",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_QuiverBelt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Quiver Belt",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_Shoulders": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Shoulders",
+                "Plugin": "DX Druid Armor.esl"
+            },
+            "DX_Druid_SkirtLong": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Druid Long Skirt",
+                "Plugin": "DX Druid Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

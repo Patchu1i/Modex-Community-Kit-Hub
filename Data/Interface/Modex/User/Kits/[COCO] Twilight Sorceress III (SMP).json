@@ -1,0 +1,70 @@
+{
+    "[COCO] Twilight Sorceress III (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Twilight Sorceress III (SMP)",
+        "Description": "",
+        "Items": {
+            "TS_JB1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Jewel",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_belt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Belt III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_bra3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Bra III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_briefs3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Briefs III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_glove3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Gloves III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_gown3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Gown III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_heel3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Heels III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_neck3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Neck III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_skirt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Skirt III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            },
+            "TS_stock3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Twilight Sorceress Stockings III",
+                "Plugin": "[COCO] Twilight Sorceress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

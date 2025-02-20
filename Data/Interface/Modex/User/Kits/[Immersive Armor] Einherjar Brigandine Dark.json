@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Einherjar Brigandine Dark": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Einherjar Brigandine Dark",
+        "Description": "",
+        "Items": {
+            "IAEinherjarBrigandineDarkBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Dark Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineDarkCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Dark Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineDarkGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Dark Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarBrigandineDarkHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Brigandine Dark Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

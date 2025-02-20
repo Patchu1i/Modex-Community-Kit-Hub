@@ -1,0 +1,28 @@
+{
+    "[Madcat221] Fem-Tsun Armor (Light)": {
+        "ClearEquipped": true,
+        "Collection": "[Madcat221] Fem-Tsun Armor (Light)",
+        "Description": "",
+        "Items": {
+            "ArmorTsunBootsLIGHT": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Light Boots",
+                "Plugin": "FemTsunArmor.esp"
+            },
+            "ArmorTsunCuirassLIGHT": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Light Armor",
+                "Plugin": "FemTsunArmor.esp"
+            },
+            "ArmorTsunRingBracersLIGHT": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tsun Light Ring Bracers",
+                "Plugin": "FemTsunArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

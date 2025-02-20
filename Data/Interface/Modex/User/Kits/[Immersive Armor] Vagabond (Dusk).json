@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Vagabond (Dusk)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Vagabond (Dusk)",
+        "Description": "",
+        "Items": {
+            "IAVagabondDuskBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Dusk Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondDuskCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Dusk Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondDuskGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Dusk Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

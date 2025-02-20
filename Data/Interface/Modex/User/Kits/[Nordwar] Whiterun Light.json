@@ -1,0 +1,46 @@
+{
+    "[Nordwar] Whiterun Light": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Whiterun Light",
+        "Description": "",
+        "Items": {
+            "0_Boots_Nord_Hide": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warm Hide Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Whiterun": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Armor_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Light Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Cloak_Ligth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Simple Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Light Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Shield_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Light Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

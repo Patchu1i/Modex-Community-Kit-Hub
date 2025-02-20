@@ -1,0 +1,40 @@
+{
+    "[Nordwar] Heavy Nordic Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Heavy Nordic Armor",
+        "Description": "",
+        "Items": {
+            "DIS_Nord_Steel_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heavy Nordic Boots",
+                "Plugin": "DIS_Nord_Heavy.esp"
+            },
+            "DIS_Nord_Steel_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heavy Nordic Cuirass",
+                "Plugin": "DIS_Nord_Heavy.esp"
+            },
+            "DIS_Nord_Steel_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heavy Nordic Gauntlets",
+                "Plugin": "DIS_Nord_Heavy.esp"
+            },
+            "DIS_Nord_Steel_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heavy Nordic Helmet",
+                "Plugin": "DIS_Nord_Heavy.esp"
+            },
+            "DIS_Nord_Steel_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Heavy Nordic Shield",
+                "Plugin": "DIS_Nord_Heavy.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

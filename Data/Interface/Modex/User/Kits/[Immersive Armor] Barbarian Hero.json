@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Barbarian Hero": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Barbarian Hero",
+        "Description": "",
+        "Items": {
+            "IAConanBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Hero Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAConanBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Hero Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAConanCirclet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Hero Circlet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAConanCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Hero Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

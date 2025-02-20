@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Solitude Light": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Solitude Light",
+        "Description": "",
+        "Items": {
+            "0_Solitude_Armor_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Light Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Boots_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Light Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Gauntlets_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Light Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Light Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Solitude_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Solitude": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Solitude Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

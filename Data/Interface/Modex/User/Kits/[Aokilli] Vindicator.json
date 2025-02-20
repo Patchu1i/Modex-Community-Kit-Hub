@@ -1,0 +1,88 @@
+{
+    "[Aokilli] Vindicator": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Vindicator",
+        "Description": "",
+        "Items": {
+            "VA_Apron": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Apron",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_BroochRight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Brooch Right",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Collar",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Cuirass",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Cuisses": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Cuisses",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Gauntlets",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Greaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Greaves",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Harness": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Harness",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Leotard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Leotard",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Pauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Pauldrons",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Sabatons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Sabatons",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Vambraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Vambraces",
+                "Plugin": "VindictorArmor.esp"
+            },
+            "VA_Wristguard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vindictor Wristguard",
+                "Plugin": "VindictorArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

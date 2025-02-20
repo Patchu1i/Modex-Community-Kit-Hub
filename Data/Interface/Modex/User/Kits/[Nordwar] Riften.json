@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Riften": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Riften",
+        "Description": "",
+        "Items": {
+            "0_Riften_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Heavy Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Riften_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Riften_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Riften_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Riften_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Riften_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Riften": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Riften Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

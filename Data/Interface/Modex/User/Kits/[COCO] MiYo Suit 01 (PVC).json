@@ -1,0 +1,46 @@
+{
+    "[COCO] MiYo Suit 01 (PVC)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] MiYo Suit 01 (PVC)",
+        "Description": "",
+        "Items": {
+            "Headwearpvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] My Suit Headwear (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            },
+            "MY_suit_body01pvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] MY Suit Body 01 (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            },
+            "MYsuit_boots01pvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] MY Suit Boots 01 (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            },
+            "MYsuit_glovespvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] MY Suit Gloves (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            },
+            "MYsuit_shoulderpvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] MY Suit Shoulder (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            },
+            "MYsuit_toppvc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] MY Suit Top (PVC)",
+                "Plugin": "[COCO]MiYo Suit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

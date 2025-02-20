@@ -1,0 +1,52 @@
+{
+    "[Aokilli] Tactical Volkihar": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Tactical Volkihar",
+        "Description": "",
+        "Items": {
+            "VolkiharAssasin_Camo_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Boots",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_Bracer": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Bracer",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_Collar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Collar",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Cuirass",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Gauntlets",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_StockingChest": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Stocking Chest",
+                "Plugin": "VolkiharAssasin.esp"
+            },
+            "VolkiharAssasin_Camo_Stockings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tactical Volkihar Stockings",
+                "Plugin": "VolkiharAssasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

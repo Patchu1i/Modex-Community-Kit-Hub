@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Dragon Knight Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragon Knight Light",
+        "Description": "",
+        "Items": {
+            "IADragonKnightCuirassFox": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Light Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightGauntlets0": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightLHelm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Light Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonKnightLShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragon Knight Light Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

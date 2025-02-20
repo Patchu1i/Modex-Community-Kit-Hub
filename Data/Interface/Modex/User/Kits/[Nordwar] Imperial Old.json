@@ -1,0 +1,46 @@
+{
+    "[Nordwar] Imperial Old": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Imperial Old",
+        "Description": "",
+        "Items": {
+            "DIS_Imperial_Cloack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Cloak",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Boots",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Armor",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Gauntlets",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Helmet",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Shield",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

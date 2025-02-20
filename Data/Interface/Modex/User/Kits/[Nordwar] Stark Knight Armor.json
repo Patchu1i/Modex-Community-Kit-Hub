@@ -1,0 +1,34 @@
+{
+    "[Nordwar] Stark Knight Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Stark Knight Armor",
+        "Description": "",
+        "Items": {
+            "DIS_Heavy_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northerners Knight Armor",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Heavy_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Plate Boots",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Heavy_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Plate Gauntlets",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Heavy_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sallet",
+                "Plugin": "DIS_Stark_Armors.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Trollsbane Light (Headdress)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Trollsbane Light (Headdress)",
+        "Description": "",
+        "Items": {
+            "IATrollbaneLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneLightBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Light Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Light Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneLightHeaddress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Light Headdress",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

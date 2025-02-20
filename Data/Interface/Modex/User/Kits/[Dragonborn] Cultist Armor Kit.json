@@ -1,0 +1,28 @@
+{
+    "[Dragonborn] Cultist Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Cultist Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ClothesCultistBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cultist Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ClothesCultistGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cultist Gloves",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2CultistMask": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cultist Mask",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

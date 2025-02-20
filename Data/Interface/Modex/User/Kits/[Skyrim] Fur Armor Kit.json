@@ -1,0 +1,76 @@
+{
+    "[Skyrim] Fur Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Fur Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorBanditBoots": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur Shoes",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditCuirass1": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditCuirass2": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditCuirass3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditGauntlets": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorBanditHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorStormcloakBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorStormcloakGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ClothesJarl02": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur-Trimmed Cloak",
+                "Plugin": "Skyrim.esm"
+            },
+            "ClothesJarlShoes": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Fur-Lined Boots",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

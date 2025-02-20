@@ -1,0 +1,46 @@
+{
+    "[FafnyB] Sentinel Knight (Silver)": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Sentinel Knight (Silver)",
+        "Description": "",
+        "Items": {
+            "000_Sentinel_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[FB] Sentinel Cape Silver",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            },
+            "000_Sentinel_Cloth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[FB] Sentinel Cloth Silver",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            },
+            "000_Sentinel_Gloves_Black_Silver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[FB] Sentinel Gloves Black-Silver",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            },
+            "000_Sentinel_Knight_Circlet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[FB] Sentinel Circlet",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            },
+            "000_Sentinel_Knight_Sword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sentinel Sword",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            },
+            "000_Sentinel_Outfit": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[FB] Sentinel Outfit Silver",
+                "Plugin": "[FB] Sentinel Knight.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "[GolinskiPRH] Bretonic Leather (Trimmed)": {
+        "ClearEquipped": true,
+        "Collection": "[GolinskiPRH] Bretonic Leather (Trimmed)",
+        "Description": "",
+        "Items": {
+            "BretonicLeatherBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bretonic Leather Boots",
+                "Plugin": "Bretonic Leather Armor.esp"
+            },
+            "BretonicLeatherCuirassVAR2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bretonic Leather Cuirass (Trimmed)",
+                "Plugin": "Bretonic Leather Armor.esp"
+            },
+            "BretonicLeatherGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bretonic Leather Gauntlets",
+                "Plugin": "Bretonic Leather Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

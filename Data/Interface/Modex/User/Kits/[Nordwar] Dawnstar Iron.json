@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Dawnstar Iron": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Dawnstar Iron",
+        "Description": "",
+        "Items": {
+            "0_Dawnstar_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Boots_Iron": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Iron Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Gauntlets_Iron": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Iron Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Helmet_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Heavy Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_WarAxe_Dawnstar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar War Axe",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

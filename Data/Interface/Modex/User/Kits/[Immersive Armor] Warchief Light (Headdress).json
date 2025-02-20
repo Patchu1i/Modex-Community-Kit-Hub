@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Warchief Light (Headdress)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Warchief Light (Headdress)",
+        "Description": "",
+        "Items": {
+            "IAWarchiefLightBulwark": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Light Bulwark",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefLightGrips": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Light Grips",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefLightHeaddress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Light Headdress",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAWarchiefLightStompers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Warchief Light Stompers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

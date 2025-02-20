@@ -1,0 +1,46 @@
+{
+    "[Aradia] Lace Dress (Red)": {
+        "ClearEquipped": true,
+        "Collection": "[Aradia] Lace Dress (Red)",
+        "Description": "",
+        "Items": {
+            "MinouAradiaLaceDressBraceletsred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Bracelets - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressNeckred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Neck - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressSkirtred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Skirt - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressStokingsred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Stockings - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressThongred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Thong - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            },
+            "MinouAradiaLaceDressTopred": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Aradia Lace Dress Top - Red",
+                "Plugin": "Minou Aradia Lace Dress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

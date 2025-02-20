@@ -1,0 +1,58 @@
+{
+    "[FafnyB] Einherjr The Rift": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Einherjr The Rift",
+        "Description": "",
+        "Items": {
+            "000_Einherjr_Armor_The_Rift": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Armor [The Rift]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Axe_Small": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Small Axe",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Belt",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Boots [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Bracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Bracers [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Cloack_The_Rift": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Cloack [The Rift]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Fur_Shoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Fur Shoulder [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Shield_The_Rift": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Shield [The Rift]",
+                "Plugin": "[FB] Einherjr.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

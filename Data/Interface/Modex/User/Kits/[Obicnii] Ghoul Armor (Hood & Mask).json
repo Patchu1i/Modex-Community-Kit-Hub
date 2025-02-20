@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Ghoul Armor (Hood & Mask)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Ghoul Armor (Hood & Mask)",
+        "Description": "",
+        "Items": {
+            "1_GhoulArmor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ghoul Armor",
+                "Plugin": "GhoulArmor.esp"
+            },
+            "1_GhoulGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ghoul Gauntlets",
+                "Plugin": "GhoulArmor.esp"
+            },
+            "1_GhoulHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ghoul Heels",
+                "Plugin": "GhoulArmor.esp"
+            },
+            "1_GhoulNeckArmor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ghoul Neck Armor",
+                "Plugin": "GhoulArmor.esp"
+            },
+            "1_GhoulSkull&Hood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ghoul Skull  & Hood",
+                "Plugin": "GhoulArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

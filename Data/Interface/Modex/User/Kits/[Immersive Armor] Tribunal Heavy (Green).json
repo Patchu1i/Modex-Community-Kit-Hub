@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Tribunal Heavy (Green)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Tribunal Heavy (Green)",
+        "Description": "",
+        "Items": {
+            "IATribunalHeavyBootsGreen": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Heavy Boots Green",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalHeavyGlovesGreen": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Heavy Gloves Green",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalHeavyHoodGreen": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Heavy Hood Green",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATribunalHeavyRobeGreenCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Tribunal Heavy Mantle Green",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

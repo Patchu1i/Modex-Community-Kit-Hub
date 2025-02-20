@@ -1,0 +1,100 @@
+{
+    "[COCO] Battle Angels 01 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Battle Angels 01 (SMP)",
+        "Description": "",
+        "Items": {
+            "BattleAngels_bram1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Bram 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_cloak1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Cloak 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_crown1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Crown 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_forearmat1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Forearm 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Gloves 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_heels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Heels 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_kneelet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Knee Met 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_legmet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Leg Met 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_shouldermat1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Shoulder Met 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Stockings 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Top 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_topbelt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Top Belt 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_topmet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Top Met 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "BattleAngels_torso2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Torso 02",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "cocoweapon1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Weapon 01",
+                "Plugin": "[COCO]BattleAngels.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

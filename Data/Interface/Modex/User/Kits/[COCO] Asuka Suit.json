@@ -1,0 +1,46 @@
+{
+    "[COCO] Asuka Suit": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Asuka Suit",
+        "Description": "",
+        "Items": {
+            "Asuka_armzz": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Arm",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            },
+            "Asuka_body1a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Body 01",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            },
+            "Asuka_glove1a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Glove 01",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            },
+            "Asuka_hair1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Hair",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            },
+            "Asuka_leg1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Legs",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            },
+            "Asuka_shoes1a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Asuka Shoes 01",
+                "Plugin": "[COCO]Asuka Suit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

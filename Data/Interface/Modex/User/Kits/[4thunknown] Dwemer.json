@@ -1,0 +1,34 @@
+{
+    "[4thunknown] Dwemer": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Dwemer",
+        "Description": "",
+        "Items": {
+            "Armor1DwemerBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwemer Boots",
+                "Plugin": "1Dwemer.esl"
+            },
+            "Armor1DwemerCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwemer Cuirass",
+                "Plugin": "1Dwemer.esl"
+            },
+            "Armor1DwemerGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwemer Gauntlets",
+                "Plugin": "1Dwemer.esl"
+            },
+            "Armor1DwemerHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwemer Helmet",
+                "Plugin": "1Dwemer.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

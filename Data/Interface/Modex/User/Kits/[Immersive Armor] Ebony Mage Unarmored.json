@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Ebony Mage Unarmored": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ebony Mage Unarmored",
+        "Description": "",
+        "Items": {
+            "IAEbonyMageUnarmoredBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Unarmored Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageUnarmoredGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Unarmored Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageUnarmoredHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Unarmored Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageUnarmoredRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Unarmored Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

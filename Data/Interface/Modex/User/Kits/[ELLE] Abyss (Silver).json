@@ -1,0 +1,28 @@
+{
+    "[ELLE] Abyss (Silver)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Abyss (Silver)",
+        "Description": "",
+        "Items": {
+            "00EL_AbyssArmletSilver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Armlet Silver",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssDressRedSilver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Dress Red Silver",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssShoesSilver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Shoes Silver",
+                "Plugin": "[ELLE] Abyss.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "[Skyrim] Ancient Nordic Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Ancient Nordic Kit",
+        "Description": "",
+        "Items": {
+            "AncientNordAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ancient Nord Amulet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDraugrBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ancient Nord Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDraugrCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ancient Nord Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDraugrGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ancient Nord Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDraugrHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ancient Nord Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrBattleAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ancient Nord Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrBattleAxeHoned": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Honed Ancient Nord Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ancient Nord Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrBowSupple": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Supple Ancient Nord Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ancient Nord Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrGreatswordHoned": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Honed Ancient Nord Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ancient Nord Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrSwordHoned": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Honed Ancient Nord Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ancient Nord War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "DraugrWarAxeHoned": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Honed Ancient Nord War Axe",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

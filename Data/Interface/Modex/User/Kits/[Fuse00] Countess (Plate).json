@@ -1,0 +1,34 @@
+{
+    "[Fuse00] Countess (Plate)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Countess (Plate)",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitCountess": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Countess Outfit",
+                "Plugin": "_Fuse00_ArmorCountess.esp"
+            },
+            "_Fuse00_ArmsOutfitCountess": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Countess Gauntlets",
+                "Plugin": "_Fuse00_ArmorCountess.esp"
+            },
+            "_Fuse00_BootsOutfitCountess": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Countess Boots",
+                "Plugin": "_Fuse00_ArmorCountess.esp"
+            },
+            "_Fuse00_HelmetMaskCountess": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Countess Mask",
+                "Plugin": "_Fuse00_ArmorCountess.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

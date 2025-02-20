@@ -1,0 +1,64 @@
+{
+    "[DX] Cassandra Frost Witch": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Cassandra Frost Witch",
+        "Description": "",
+        "Items": {
+            "DX_MAC_CassandraWitchAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Amulet",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Boots",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Bracers",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Cloak",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchHatLarge": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Hat Large",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchLegWraps1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Leg Wraps",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Robe",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Skirt",
+                "Plugin": "Cassandra Frost Witch.esl"
+            },
+            "DX_MAC_CassandraWitchStaffIce": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Frost Witch Staff",
+                "Plugin": "Cassandra Frost Witch.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

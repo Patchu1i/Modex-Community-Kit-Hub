@@ -1,0 +1,46 @@
+{
+    "[Nordwar] Markarth Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Markarth Heavy",
+        "Description": "",
+        "Items": {
+            "0_Markarth_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Heavy Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Boots_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Heavy Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Gauntlets_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Heavy Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Helmet_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Heavy Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Markarth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

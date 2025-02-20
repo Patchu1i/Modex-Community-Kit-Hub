@@ -1,0 +1,58 @@
+{
+    "[DX] Cassandra Apocrypha": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Cassandra Apocrypha",
+        "Description": "",
+        "Items": {
+            "DX_CassandraApocrypha_Bracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Bracers",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Choker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Choker",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_MaskLeft": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Mask Left",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Robes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Robes",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Shoes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Shoes",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Skirt",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Socks": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Socks",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            },
+            "DX_CassandraApocrypha_Tentacles": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cassandra Apocrypha Tentacles",
+                "Plugin": "Cassandra Apocrypha UNP.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

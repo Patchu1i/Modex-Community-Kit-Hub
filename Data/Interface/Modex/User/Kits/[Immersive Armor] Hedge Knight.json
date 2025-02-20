@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Hedge Knight": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Hedge Knight",
+        "Description": "",
+        "Items": {
+            "IAHedgeKnightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hedge Knight Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHedgeKnightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hedge Knight Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHedgeKnightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hedge Knight Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAHedgeKnightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Hedge Knight Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

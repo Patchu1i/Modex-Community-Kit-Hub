@@ -1,0 +1,34 @@
+{
+    "[4thunknown] Markynaz": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Markynaz",
+        "Description": "",
+        "Items": {
+            "ArmorMarkynazBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markynaz Boots",
+                "Plugin": "1Markynaz.esl"
+            },
+            "ArmorMarkynazCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markynaz Cuirass",
+                "Plugin": "1Markynaz.esl"
+            },
+            "ArmorMarkynazGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markynaz Gauntlets",
+                "Plugin": "1Markynaz.esl"
+            },
+            "ArmorMarkynazHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markynaz Helmet",
+                "Plugin": "1Markynaz.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

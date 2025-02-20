@@ -1,0 +1,76 @@
+{
+    "[TAWOBA] Leather Bikini II": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Leather Bikini II",
+        "Description": "",
+        "Items": {
+            "00LBAabs1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Abs Guard A",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAbikini2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Bikini B",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAboot": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Padded Boots",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAcrown": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Head Gear",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAgaunt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Gauntlets",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAneckgorget": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Gorget",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBApauld2L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Pauldron B L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBApauld2R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Pauldron B R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBApouch": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Pouches",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAthigh": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Thigh",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00LBAthong2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Leather Thong B",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

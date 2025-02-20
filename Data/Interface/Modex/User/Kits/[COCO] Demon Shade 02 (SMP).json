@@ -1,0 +1,70 @@
+{
+    "[COCO] Demon Shade 02 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Demon Shade 02 (SMP)",
+        "Description": "",
+        "Items": {
+            "Demon_bodybra2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Body Bra 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_bodyfu2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Body Full 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_bodystock2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Body Stockings 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_glove2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Glove 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_hairsmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Hair 2 (SMP)",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_heels2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Heels 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_horn2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Horn 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_mask2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Mask 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_panties2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Panties 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            },
+            "Demon_tail2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "COCO Demon Eve Tail 2",
+                "Plugin": "[COCO] Demon Shade.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

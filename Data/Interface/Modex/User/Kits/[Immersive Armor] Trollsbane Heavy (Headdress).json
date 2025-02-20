@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Trollsbane Heavy (Headdress)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Trollsbane Heavy (Headdress)",
+        "Description": "",
+        "Items": {
+            "IATrollbaneHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Heavy Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Heavy Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IATrollbaneHeavyHeaddress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Trollsbane Heavy Headdress",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

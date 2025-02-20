@@ -1,0 +1,28 @@
+{
+    "[ELLE] Abyss (Apocrypha)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Abyss (Apocrypha)",
+        "Description": "",
+        "Items": {
+            "00EL_AbyssArmletApocrypha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Armlet Apocrypha",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssDressBlackApocrypha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Dress Black Apocrypha",
+                "Plugin": "[ELLE] Abyss.esp"
+            },
+            "00EL_AbyssShoesApocrypha": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Abyss Shoes Apocrypha",
+                "Plugin": "[ELLE] Abyss.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

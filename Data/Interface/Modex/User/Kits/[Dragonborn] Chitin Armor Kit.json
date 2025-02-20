@@ -1,0 +1,40 @@
+{
+    "[Dragonborn] Chitin Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Chitin Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ArmorChitinLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Bracers",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinLightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chitin Helmet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorChitinShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Chitin Shield",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "[FafnyB] Master Thief Armor (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Master Thief Armor (Black)",
+        "Description": "",
+        "Items": {
+            "000_Master_Thief_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Armor",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Boots",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Gloves",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Hood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Hood",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Misc": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Misc",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Scabbard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Scabbard",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            },
+            "000_Master_Thief_Shoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Master Thief Shoulder",
+                "Plugin": "[FB] Master Thief Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

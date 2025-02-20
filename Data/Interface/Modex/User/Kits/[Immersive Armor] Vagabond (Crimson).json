@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Vagabond (Crimson)": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Vagabond (Crimson)",
+        "Description": "",
+        "Items": {
+            "IAVagabondCrimsonBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Crimson Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondCrimsonCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Crimson Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondCrimsonGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Crimson Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

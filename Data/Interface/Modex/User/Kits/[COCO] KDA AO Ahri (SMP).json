@@ -1,0 +1,88 @@
+{
+    "[COCO] KDA AO Ahri (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] KDA AO Ahri (SMP)",
+        "Description": "",
+        "Items": {
+            "AHRIall_beltdiam1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Belt Diamond 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_bra1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Bra 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_bradiam1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Arm Diamond 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_ear1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Ear 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Glove 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_hairsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Hair 01 (SMP)",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_heels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Heels 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_nails1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Nails 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_neck1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Neck 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_panties1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Panties 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Skirt 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_tail1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Tail 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            },
+            "AHRIall_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] AHRI AO Top 01",
+                "Plugin": "[COCO] KDA AO Ahri.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

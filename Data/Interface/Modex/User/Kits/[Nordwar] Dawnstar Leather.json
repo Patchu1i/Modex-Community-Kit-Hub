@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Dawnstar Leather": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Dawnstar Leather",
+        "Description": "",
+        "Items": {
+            "0_Dawnstar_Armor_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Light Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Boots_Leather": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Leather Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Gauntlets_Leather": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Leather Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Light Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Dawnstar_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_WarAxe_Dawnstar": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dawnstar War Axe",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

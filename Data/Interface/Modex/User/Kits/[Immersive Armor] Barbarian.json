@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Barbarian": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Barbarian",
+        "Description": "",
+        "Items": {
+            "IABarbarianBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABarbarianCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABarbarianGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABarbarianHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Barbarian Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

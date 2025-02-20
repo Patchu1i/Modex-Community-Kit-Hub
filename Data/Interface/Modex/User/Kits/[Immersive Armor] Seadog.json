@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Seadog": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Seadog",
+        "Description": "",
+        "Items": {
+            "IASeadogBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Seadog Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASeadogCape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Seadog Cape",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASeadogCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Seadog Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASeadogGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Seadog Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IASeadogTricorne": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Seadog Tricorne",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

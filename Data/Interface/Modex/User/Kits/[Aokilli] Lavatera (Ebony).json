@@ -1,0 +1,82 @@
+{
+    "[Aokilli] Lavatera (Ebony)": {
+        "ClearEquipped": true,
+        "Collection": "[Aokilli] Lavatera (Ebony)",
+        "Description": "",
+        "Items": {
+            "Lavatera_Ebony_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Cuirass",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Gauntlets",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Gorget": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Gorget",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Greaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Greaves",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Helmet",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Leotard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Leotard",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Pauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Pauldrons",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Sabatons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Sabatons",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Skirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Skirt",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Sleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Sleeves",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Vambraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Vambraces",
+                "Plugin": "LavateraArmor.esp"
+            },
+            "Lavatera_Ebony_Wristguard": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Lavatera Wristguard",
+                "Plugin": "LavateraArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

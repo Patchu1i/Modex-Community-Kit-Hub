@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Vampire Clothing": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Vampire Clothing",
+        "Description": "",
+        "Items": {
+            "1_VampireArms": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Vampire Arms",
+                "Plugin": "Obi's Vampire Clothing.esp"
+            },
+            "1_VampireChoker": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Vampire Choker",
+                "Plugin": "Obi's Vampire Clothing.esp"
+            },
+            "1_VampireHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Vampire High Heels",
+                "Plugin": "Obi's Vampire Clothing.esp"
+            },
+            "1_VampireJacket": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Vampire Jacket",
+                "Plugin": "Obi's Vampire Clothing.esp"
+            },
+            "1_VampireTorso": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Obi's Vampire Torso",
+                "Plugin": "Obi's Vampire Clothing.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

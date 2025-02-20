@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dragonbone Ebonsteel": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragonbone Ebonsteel",
+        "Description": "",
+        "Items": {
+            "IADragonEbonBulkyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonbone Ebonsteel Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonBulkyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonbone Ebonsteel Breastplate",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonHHelmGrand": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonbone Ebonsteel Grand Helm",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonEbonHShield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonbone Ebonsteel Shield",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

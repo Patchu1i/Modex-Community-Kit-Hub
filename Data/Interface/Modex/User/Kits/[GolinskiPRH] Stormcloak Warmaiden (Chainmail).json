@@ -1,0 +1,28 @@
+{
+    "[GolinskiPRH] Stormcloak Warmaiden (Chainmail)": {
+        "ClearEquipped": true,
+        "Collection": "[GolinskiPRH] Stormcloak Warmaiden (Chainmail)",
+        "Description": "",
+        "Items": {
+            "ArmorCuirassWarmaidenVAR2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Chainmail Cuirass",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            },
+            "WarmaidenArmorScaledBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Warmaiden Boots",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            },
+            "WarmaidenArmorScaledGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Warmaiden Gauntlets",
+                "Plugin": "StormcloakWarmaidenArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "[COCO] Christmas Gift (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Christmas Gift (SMP)",
+        "Description": "",
+        "Items": {
+            "Christmas_Gift2018TOP": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Top",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018blet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Belt",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018boot": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Boots",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018glove": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Glove",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018headmat": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Headmat",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018horn": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Horn",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018neck": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Neck",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018pantsmp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Pant (SMP)",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018skirtsmp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Skirt (SMP)",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            },
+            "Christmas_Gift2018stocking": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]ChristmasGift Stocking",
+                "Plugin": "[COCO]ChristmasGift.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

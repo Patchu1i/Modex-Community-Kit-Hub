@@ -1,0 +1,58 @@
+{
+    "[FafnyB] Einherjr The Reach": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Einherjr The Reach",
+        "Description": "",
+        "Items": {
+            "000_Einherjr_Armor_The_Reach": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Armor [The Reach]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Axe_Small": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Small Axe",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Belt",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Boots [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Bracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Bracers [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Cloack_The_Reach": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Cloack [The Reach]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Fur_Shoulder": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Fur Shoulder [Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Shield_The_Reach": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Shield [The Reach]",
+                "Plugin": "[FB] Einherjr.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "[Dawnguard] Vampire Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Dawnguard] Vampire Armor",
+        "Description": "",
+        "Items": {
+            "DLC01ClothesVampire": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Robes",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC01ClothesVampireGloves": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Gloves",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC01ClothesVampireHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vampire Hood",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorVampireArmorGray": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorVampireArmorGrayLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vampire Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorVampireArmorRed": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorVampireBoots": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Boots",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ArmorVampireGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vampire Gauntlets",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ClothesVampireLordArmor": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Vampire Lord Armor",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DlC01ClothesVampireBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vampire Boots",
+                "Plugin": "Dawnguard.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

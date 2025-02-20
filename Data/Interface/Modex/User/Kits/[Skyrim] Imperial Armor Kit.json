@@ -1,0 +1,46 @@
+{
+    "[Skyrim] Imperial Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Imperial Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorImperialBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Soldier's Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ImperialBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "Imperialsword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Imperial Sword",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

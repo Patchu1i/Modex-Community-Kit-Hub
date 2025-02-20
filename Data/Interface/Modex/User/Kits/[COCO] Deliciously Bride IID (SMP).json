@@ -1,0 +1,52 @@
+{
+    "[COCO] Deliciously Bride IID (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Deliciously Bride IID (SMP)",
+        "Description": "",
+        "Items": {
+            "Bride_body2d": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Body IID",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_necklace4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Necklace IV",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Shoes I",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_skirt1d": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Skirt ID (SMP)",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Stockings I",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_strap1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Strap I",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            },
+            "Bride_veilsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Bride Veil IV (SMP)",
+                "Plugin": "[COCO] Deliciously Bride.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

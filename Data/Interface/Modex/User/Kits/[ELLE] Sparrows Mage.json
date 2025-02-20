@@ -1,0 +1,40 @@
+{
+    "[ELLE] Sparrows Mage": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Sparrows Mage",
+        "Description": "",
+        "Items": {
+            "00EL_SparrowsMageBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sparrows Mage Boots",
+                "Plugin": "[ELLE] Sparrows Mage.esp"
+            },
+            "00EL_SparrowsMageGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sparrows Mage Gloves",
+                "Plugin": "[ELLE] Sparrows Mage.esp"
+            },
+            "00EL_SparrowsMageJacket": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sparrows Mage Jacket",
+                "Plugin": "[ELLE] Sparrows Mage.esp"
+            },
+            "00EL_SparrowsMagePants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sparrows Mage Pants",
+                "Plugin": "[ELLE] Sparrows Mage.esp"
+            },
+            "00EL_SparrowsMageTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Sparrows Mage Top",
+                "Plugin": "[ELLE] Sparrows Mage.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

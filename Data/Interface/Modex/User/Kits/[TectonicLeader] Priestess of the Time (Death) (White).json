@@ -1,0 +1,46 @@
+{
+    "[TectonicLeader] Priestess of the Time (Death) (White)": {
+        "ClearEquipped": true,
+        "Collection": "[TectonicLeader] Priestess of the Time (Death) (White)",
+        "Description": "",
+        "Items": {
+            "aaaPOTDeathCircletWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Circlet White",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTDeathClothesWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Clothes White",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTDeathEarringWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Earring White",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTDeathGlovesWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Gloves White",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTDeathHeelsWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Heels White",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTDeathPantyWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Death Panty White",
+                "Plugin": "Priestess of the Time.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

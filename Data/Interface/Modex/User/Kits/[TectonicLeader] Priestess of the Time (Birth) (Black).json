@@ -1,0 +1,46 @@
+{
+    "[TectonicLeader] Priestess of the Time (Birth) (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[TectonicLeader] Priestess of the Time (Birth) (Black)",
+        "Description": "",
+        "Items": {
+            "aaaPOTBirthBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Boots Black",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTBirthClothes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Clothes Black",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTBirthEarring": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Earring Black",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTBirthGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Gloves Black",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTBirthPanty": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Panty Black",
+                "Plugin": "Priestess of the Time.esp"
+            },
+            "aaaPOTBirthVeil": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Priestess Birth Veil Black",
+                "Plugin": "Priestess of the Time.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

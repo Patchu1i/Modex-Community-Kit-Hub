@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Crimson Outfit (No Hood)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Crimson Outfit (No Hood)",
+        "Description": "",
+        "Items": {
+            "1_CrimsonBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Boots",
+                "Plugin": "Obi's Crimson Outfit.esp"
+            },
+            "1_CrimsonGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Gloves",
+                "Plugin": "Obi's Crimson Outfit.esp"
+            },
+            "1_CrimsonNecklace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Necklace",
+                "Plugin": "Obi's Crimson Outfit.esp"
+            },
+            "1_CrimsonPants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Pants",
+                "Plugin": "Obi's Crimson Outfit.esp"
+            },
+            "1_CrimsonTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Crimson Top",
+                "Plugin": "Obi's Crimson Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

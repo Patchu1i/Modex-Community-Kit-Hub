@@ -1,0 +1,82 @@
+{
+    "[COCO] Fairy Queen 02 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Fairy Queen 02 (SMP)",
+        "Description": "",
+        "Items": {
+            "FQ_armmat2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Arm Metal 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_briefs2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Briefs 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_clothback2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Cloth Back 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_clothbelly2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Cloth Belly 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_clothlowSMP2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Cloth Low 02 (SMP)",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_clothtop2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Cloth Top 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_ear2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Ear 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_glove2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Glove 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_neck2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Neck 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_shoes2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Shoes 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_shomat2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Shoulder Metal 02",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            },
+            "FQ_skirtSMP2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] FQ Skirt 02 (SMP)",
+                "Plugin": "[COCO] Fairy Queen.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

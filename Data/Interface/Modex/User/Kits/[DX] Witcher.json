@@ -1,0 +1,58 @@
+{
+    "[DX] Witcher": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Witcher",
+        "Description": "",
+        "Items": {
+            "DX_Witcher_Amulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Amulet",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_ArmorSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Armor & Skirt",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Boots",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Crossbow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Crossbow",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Crossbow_Bolt_Normal": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Bolt",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Quivers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Quivers",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Sleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Sleeves",
+                "Plugin": "DX Witcher Armor.esl"
+            },
+            "DX_Witcher_Swords": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witcher Swords",
+                "Plugin": "DX Witcher Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

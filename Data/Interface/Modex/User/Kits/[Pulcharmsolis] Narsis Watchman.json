@@ -1,0 +1,34 @@
+{
+    "[Pulcharmsolis] Narsis Watchman": {
+        "ClearEquipped": true,
+        "Collection": "[Pulcharmsolis] Narsis Watchman",
+        "Description": "",
+        "Items": {
+            "NarsisWatchmanBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Narsis Watchman Boots",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "NarsisWatchmanCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Narsis Watchman Armor",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "NarsisWatchmanGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Narsis Watchman Gauntlets",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "NarsisWatchmanHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Narsis Watchman Helmet",
+                "Plugin": "Armors of the Velothi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

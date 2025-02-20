@@ -1,0 +1,58 @@
+{
+    "[COCO] Pinup Cheongsam": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Pinup Cheongsam",
+        "Description": "",
+        "Items": {
+            "PinupCheongsam_bra1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Bra",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_coat1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Coat",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_fur1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Fur",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Glove",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_heels1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Heels",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_pants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Pants",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Stockings",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            },
+            "PinupCheongsam_torsoa1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Pinup Cheongsam Torso",
+                "Plugin": "[COCO] Pinup Cheongsam.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

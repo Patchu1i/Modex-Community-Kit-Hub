@@ -1,0 +1,58 @@
+{
+    "[FafnyB] Einherjr The Pale": {
+        "ClearEquipped": true,
+        "Collection": "[FafnyB] Einherjr The Pale",
+        "Description": "",
+        "Items": {
+            "000_Einherjr_Armor_The_Pale": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Armor [The Pale]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Axe_Small": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Small Axe",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Belt",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Boots_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Boots [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Bracers_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Bracers [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Cloack_The_Pale": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Cloack [The Pale]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Fur_Shoulder_White": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Fur Shoulder [White Wolf]",
+                "Plugin": "[FB] Einherjr.esp"
+            },
+            "000_Einherjr_Shield_The_Pale": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjr Shield [The Pale]",
+                "Plugin": "[FB] Einherjr.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

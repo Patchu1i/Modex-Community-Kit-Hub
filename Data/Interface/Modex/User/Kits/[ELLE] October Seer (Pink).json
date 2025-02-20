@@ -1,0 +1,58 @@
+{
+    "[ELLE] October Seer (Pink)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] October Seer (Pink)",
+        "Description": "",
+        "Items": {
+            "00EL_OctoberArms4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Arms 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberBelt4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Belt 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberCorset4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Corset 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberLegs4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Legs 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberMask4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Mask 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberNecklace4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Necklace 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberSkirt4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Skirt 4",
+                "Plugin": "[ELLE] October Seer.esp"
+            },
+            "00EL_OctoberStaffv2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Seer Staff V2",
+                "Plugin": "[ELLE] October Seer.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

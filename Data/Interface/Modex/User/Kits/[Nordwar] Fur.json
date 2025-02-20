@@ -1,0 +1,40 @@
+{
+    "[Nordwar] Fur": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Fur",
+        "Description": "",
+        "Items": {
+            "DIS_Fur_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Boots",
+                "Plugin": "DIS_Fur_Armor.esp"
+            },
+            "DIS_Fur_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Armor",
+                "Plugin": "DIS_Fur_Armor.esp"
+            },
+            "DIS_Fur_Gauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Mittens",
+                "Plugin": "DIS_Fur_Armor.esp"
+            },
+            "DIS_Fur_Helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Hat",
+                "Plugin": "DIS_Fur_Armor.esp"
+            },
+            "DIS_Fur_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fur Shield",
+                "Plugin": "DIS_Fur_Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "[Skyrim] Imperial Armor Kit (All)": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Imperial Armor Kit (All)",
+        "Description": "",
+        "Items": {
+            "ArmorImperialBoots": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Soldier's Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialGauntlets": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialHelmet": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialHelmetFull": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Legate Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialHelmetOfficer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Captain's Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightBoots": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightGauntlets": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Bracers",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightHelmet": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialLightShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Light Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Heavy Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorImperialStuddedCuirass": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Chainmail",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorSteelGauntletsB": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Steel Imperial Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ImperialBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "Imperialsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Imperial Sword",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

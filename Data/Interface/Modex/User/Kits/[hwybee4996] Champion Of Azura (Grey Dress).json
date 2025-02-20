@@ -1,0 +1,58 @@
+{
+    "[hwybee4996] Champion Of Azura (Grey Dress)": {
+        "ClearEquipped": true,
+        "Collection": "[hwybee4996] Champion Of Azura (Grey Dress)",
+        "Description": "",
+        "Items": {
+            "AAAChampionofAzuraAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Amulet of Azura",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBreastCoverLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Breast Cover",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraDress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Dress",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraGlovesLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Gloves",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraHatLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Hat",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraShoeLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Shoe",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraSword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Sword",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraUnderwearLight": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Underwear",
+                "Plugin": "ChampionofAzura.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

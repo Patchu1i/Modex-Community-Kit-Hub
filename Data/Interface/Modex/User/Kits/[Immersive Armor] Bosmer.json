@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Bosmer": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Bosmer",
+        "Description": "",
+        "Items": {
+            "IABosmerBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerCoif": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Coif",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

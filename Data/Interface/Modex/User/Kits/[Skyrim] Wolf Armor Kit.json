@@ -1,0 +1,34 @@
+{
+    "[Skyrim] Wolf Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Wolf Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorCompanionsBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorCompanionsCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorCompanionsGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorCompanionsHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wolf Helmet",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

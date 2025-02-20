@@ -1,0 +1,28 @@
+{
+    "[Obicnii] Wyrm Slayer": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Wyrm Slayer",
+        "Description": "",
+        "Items": {
+            "1_WyrmSlayerBody": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wyrm Slyer Bodysuit",
+                "Plugin": "WyrmSlayerArmor.esp"
+            },
+            "1_WyrmSlayerGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wyrm Slayer Gauntlets",
+                "Plugin": "WyrmSlayerArmor.esp"
+            },
+            "1_WyrmSlayerHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wyrm Slayer Helmet",
+                "Plugin": "WyrmSlayerArmor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

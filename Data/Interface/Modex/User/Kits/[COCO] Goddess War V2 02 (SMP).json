@@ -1,0 +1,76 @@
+{
+    "[COCO] Goddess War V2 02 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Goddess War V2 02 (SMP)",
+        "Description": "",
+        "Items": {
+            "GWV2_boots2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Boots 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_cloaksmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Cloak 02 (SMP)",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_corset2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Corset 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_glove2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Gloves 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_gloveb2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Gloves B 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_hairsmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Helmet 02 (H) (SMP)",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_lowmet2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Low Met 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_pants2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Pants 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_shield2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Shield 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_top2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Top 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            },
+            "GWV2_topmet2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Goddess War V2 Top Met 02",
+                "Plugin": "[COCO]Goddess War v2.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

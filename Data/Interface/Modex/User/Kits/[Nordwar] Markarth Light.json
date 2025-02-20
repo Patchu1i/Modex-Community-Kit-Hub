@@ -1,0 +1,46 @@
+{
+    "[Nordwar] Markarth Light": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Markarth Light",
+        "Description": "",
+        "Items": {
+            "0_Markarth_Armor_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Light Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Boots_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Light Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Gauntlets_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Light Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Light Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Markarth_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Sword_Markarth": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Markarth Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

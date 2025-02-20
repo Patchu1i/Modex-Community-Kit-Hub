@@ -1,0 +1,94 @@
+{
+    "[COCO] RONIN 1 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] RONIN 1 (SMP)",
+        "Description": "",
+        "Items": {
+            "RONIN_backkatana1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Back Katana",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_beltfull1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Belt Full",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_beltleg1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Belt Leg",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_glove1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Glove",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_helmetsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Helmet [SMP]",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_masksmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Mask [SMP]",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_ropeleg1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Rope Leg",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_shield1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Shield",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Shoes",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_skirtfullsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Skirt Full [SMP]",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_strapsmp1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Strap [SMP]",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Top",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_underwear1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Underwear",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "cocokatanaDUPLICATE002": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Katana 1",
+                "Plugin": "[COCO] RONIN.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

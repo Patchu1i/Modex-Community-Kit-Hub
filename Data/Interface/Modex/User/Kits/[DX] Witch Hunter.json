@@ -1,0 +1,52 @@
+{
+    "[DX] Witch Hunter": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Witch Hunter",
+        "Description": "",
+        "Items": {
+            "DX_WitchHunter_Armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Armor",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Boots",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Crossbow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Crossbow",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Crossbow_Bolt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Bolt",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Quiver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Quivers",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Scarf": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Scarf",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            },
+            "DX_WitchHunter_Sleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Witch Hunter Sleeves",
+                "Plugin": "DX Witch Hunter Armor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

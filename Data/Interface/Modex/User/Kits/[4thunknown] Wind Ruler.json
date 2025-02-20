@@ -1,0 +1,40 @@
+{
+    "[4thunknown] Wind Ruler": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Wind Ruler",
+        "Description": "",
+        "Items": {
+            "1WRGreatsword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "The Sword from the Lake",
+                "Plugin": "1WR.esl"
+            },
+            "Armor1WRBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wind Ruler Boots",
+                "Plugin": "1WR.esl"
+            },
+            "Armor1WRCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wind Ruler Cuirass",
+                "Plugin": "1WR.esl"
+            },
+            "Armor1WRHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wind Ruler Helmet",
+                "Plugin": "1WR.esl"
+            },
+            "armor1WRGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wind Ruler Gauntlets",
+                "Plugin": "1WR.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

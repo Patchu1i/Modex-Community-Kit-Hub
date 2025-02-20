@@ -1,0 +1,40 @@
+{
+    "[Immersive Armor] Bosmer Engraved I": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Bosmer Engraved I",
+        "Description": "",
+        "Items": {
+            "IABosmerEngravedBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Engraved Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerEngravedBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Engraved Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerEngravedCoif": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Engraved Coif",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerEngravedCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Engraved Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IABosmerEngravedShoulderCape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Bosmer Engraved Shoulder Cape",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

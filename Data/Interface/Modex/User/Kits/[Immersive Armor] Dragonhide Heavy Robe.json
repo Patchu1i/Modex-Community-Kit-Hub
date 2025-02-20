@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dragonhide Heavy Robe": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dragonhide Heavy Robe",
+        "Description": "",
+        "Items": {
+            "IADragonhideHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Heavy Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideHeavyGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Heavy Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideHeavyHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Heavy Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADragonhideHeavyRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonhide Heavy Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

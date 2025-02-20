@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Forest Attire (No Hair)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Forest Attire (No Hair)",
+        "Description": "",
+        "Items": {
+            "1_ForestAttireArm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forest Attire Arm",
+                "Plugin": "ForestAttire.esp"
+            },
+            "1_ForestAttireBody": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forest Attire Main",
+                "Plugin": "ForestAttire.esp"
+            },
+            "1_ForestAttireHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forest Attire Heels",
+                "Plugin": "ForestAttire.esp"
+            },
+            "1_ForestAttireHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Forest Attire Hood",
+                "Plugin": "ForestAttire.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

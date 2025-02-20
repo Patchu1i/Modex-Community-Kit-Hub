@@ -1,0 +1,64 @@
+{
+    "[COCO] Mulan 02 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Mulan 02 (SMP)",
+        "Description": "",
+        "Items": {
+            "cocoweapon2b": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Weapon 02",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_cloaksmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Cloak 02 [SMP]",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_dresssmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Dress 02 [SMP]",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_glove2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Glove 02",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_neck1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Neck 01",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_pantsA2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Panty A 02",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_shoes2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Shoes 02",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_shom2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Shoulder Metal 02",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_stocking2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Stocking 02",
+                "Plugin": "[COCO] Mulan.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

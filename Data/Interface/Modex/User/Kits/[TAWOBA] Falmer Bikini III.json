@@ -1,0 +1,76 @@
+{
+    "[TAWOBA] Falmer Bikini III": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Falmer Bikini III",
+        "Description": "",
+        "Items": {
+            "00FBA_Bikini_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bikini Top II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Gorget_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Gorget I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_MISC_fishnet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bikini Fishnet",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Shoulder_2L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Pauldron II L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Shoulder_2R": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Pauldron II R",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Tasset_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Tasset II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_Thong_4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Bikini Bottom IV",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_abs_hev_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Heavy Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00FBA_thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Falmer Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

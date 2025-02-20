@@ -1,0 +1,28 @@
+{
+    "[Fuse00] Kellan": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Kellan",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitKellan": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Kellan Armor",
+                "Plugin": "_Fuse00_ArmorKellan.esp"
+            },
+            "_Fuse00_ArmsOutfitKellan": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Kellan Gauntlets",
+                "Plugin": "_Fuse00_ArmorKellan.esp"
+            },
+            "_Fuse00_BootsOutfitKellan": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Kellan Boots",
+                "Plugin": "_Fuse00_ArmorKellan.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

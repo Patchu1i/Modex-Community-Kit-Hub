@@ -1,0 +1,52 @@
+{
+    "[COCO] Lolita III (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Lolita III (SMP)",
+        "Description": "",
+        "Items": {
+            "Lolitav1_Vest03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Vest III",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_gloves03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Gloves III",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_headwear03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Headwear III",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_shoes03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Shoes III",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_smpskirt03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Skirt III (SMP)",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_stocking03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Stockings III",
+                "Plugin": "[COCO] Lolita.esp"
+            },
+            "Lolitav1_top03": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Lolita Top III",
+                "Plugin": "[COCO] Lolita.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Primitive Nord Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Primitive Nord Light",
+        "Description": "",
+        "Items": {
+            "IAPrimitiveNordLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordLightCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Light Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAPrimitiveNordLightHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Primitive Nord Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

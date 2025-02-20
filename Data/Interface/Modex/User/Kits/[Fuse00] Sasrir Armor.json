@@ -1,0 +1,40 @@
+{
+    "[Fuse00] Sasrir Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Sasrir Armor",
+        "Description": "",
+        "Items": {
+            "_Fuse00_ArmorOutfitSasrir": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sasrir Armor",
+                "Plugin": "_Fuse00_ArmorSasrir.esp"
+            },
+            "_Fuse00_ArmsOutfitSasrir": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sasrir Gloves",
+                "Plugin": "_Fuse00_ArmorSasrir.esp"
+            },
+            "_Fuse00_BootsOutfitSasrir": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sasrir Boots",
+                "Plugin": "_Fuse00_ArmorSasrir.esp"
+            },
+            "_Fuse00_HelmetOutfitSasrir": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sasrir Helmet",
+                "Plugin": "_Fuse00_ArmorSasrir.esp"
+            },
+            "_Fuse00_SasrirOutfitWings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Sasrir Wings",
+                "Plugin": "_Fuse00_ArmorSasrir.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

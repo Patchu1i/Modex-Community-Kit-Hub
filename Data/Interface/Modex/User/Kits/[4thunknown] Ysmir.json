@@ -1,0 +1,34 @@
+{
+    "[4thunknown] Ysmir": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Ysmir",
+        "Description": "",
+        "Items": {
+            "1YsmirBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ysmir Boots",
+                "Plugin": "1YsmirArmorSE.esl"
+            },
+            "1YsmirCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ysmir Cuirass",
+                "Plugin": "1YsmirArmorSE.esl"
+            },
+            "1YsmirGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ysmir Gauntlets",
+                "Plugin": "1YsmirArmorSE.esl"
+            },
+            "1YsmirHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ysmir Helmet",
+                "Plugin": "1YsmirArmorSE.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "[xxxODDxx] Hellraiser": {
+        "ClearEquipped": true,
+        "Collection": "[xxxODDxx] Hellraiser",
+        "Description": "",
+        "Items": {
+            "00HellraiserChest": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Chest",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraiserhighboots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Strap High Boots",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraiserhook": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Nipple Hooks",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraiseribbon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Ribbons",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraiserskirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Skirt",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraisersleeves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Sleeves",
+                "Plugin": "[Odd] Hellraiser.esp"
+            },
+            "00Hellraisertop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] Hellraiser Top",
+                "Plugin": "[Odd] Hellraiser.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Eve's Sunfire Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Eve's Sunfire Armor",
+        "Description": "",
+        "Items": {
+            "1_EvesSunfireArmorArms": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "  Eve's Sunfire Armor Arms",
+                "Plugin": "Obi - Eve's Sunfire Armor.esp"
+            },
+            "1_EvesSunfireArmorArmsGloveless": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "  Eve's Sunfire Armor Arms Gloveless",
+                "Plugin": "Obi - Eve's Sunfire Armor.esp"
+            },
+            "1_EvesSunfireArmorBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "  Eve's Sunfire Armor Boots",
+                "Plugin": "Obi - Eve's Sunfire Armor.esp"
+            },
+            "1_EvesSunfireArmorPanties": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "  Eve's Sunfire Armor Panties",
+                "Plugin": "Obi - Eve's Sunfire Armor.esp"
+            },
+            "1_EvesSunfireArmorTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "  Eve's Sunfire Armor Top",
+                "Plugin": "Obi - Eve's Sunfire Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

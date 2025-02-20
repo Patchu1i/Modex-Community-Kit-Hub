@@ -1,0 +1,100 @@
+{
+    "[COCO] KDA Ahri Full (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] KDA Ahri Full (SMP)",
+        "Description": "",
+        "Items": {
+            "AHri_arm1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_arm1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_belt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_belt1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_corset": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_corset",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_m1a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_m1a",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_m2a": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_m2a",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_neck1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_neck1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_pants1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_pants1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_shoes1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_stock1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_stock1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "AHri_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_top1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "Ahri_bracelet1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_bracelet1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "Ahri_ear1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_ear1",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "Ahri_ear2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_ear2",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "Ahri_hair2smp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]KDA_Ahri_hair2smp",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            },
+            "Ahri_tail2smp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]kda_ahri_tail2smp",
+                "Plugin": "[COCO]KDA_Ahri_Full.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

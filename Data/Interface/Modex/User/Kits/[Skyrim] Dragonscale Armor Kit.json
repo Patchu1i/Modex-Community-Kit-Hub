@@ -1,0 +1,40 @@
+{
+    "[Skyrim] Dragonscale Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Dragonscale Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorDragonscaleBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonscaleCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonscaleGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonscaleHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonscale Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonscaleShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dragonscale Shield",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

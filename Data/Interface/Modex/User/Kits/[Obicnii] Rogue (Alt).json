@@ -1,0 +1,40 @@
+{
+    "[Obicnii] Rogue (Alt)": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Rogue (Alt)",
+        "Description": "",
+        "Items": {
+            "1_RogueBootsB": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rogue Boots [Dark]",
+                "Plugin": "RogueOutfit.esp"
+            },
+            "1_RogueHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rogue Hood",
+                "Plugin": "RogueOutfit.esp"
+            },
+            "1_RoguePantsTorn": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rogue Pants Torn",
+                "Plugin": "RogueOutfit.esp"
+            },
+            "1_RoguePoncho": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rogue Poncho",
+                "Plugin": "RogueOutfit.esp"
+            },
+            "1_RogueTopB": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rogue Top [Dark]",
+                "Plugin": "RogueOutfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

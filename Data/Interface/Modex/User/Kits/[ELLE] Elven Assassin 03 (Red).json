@@ -1,0 +1,40 @@
+{
+    "[ELLE] Elven Assassin 03 (Red)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Elven Assassin 03 (Red)",
+        "Description": "",
+        "Items": {
+            "00EL_AEABelt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Belt 3",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEABoots3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Boots 3",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEADress3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Dress 3",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAGloves3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Gloves 3",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            },
+            "00EL_AEAShoulders3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Assasin Shoulders 3",
+                "Plugin": "[ELLE] Elven Assasin.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

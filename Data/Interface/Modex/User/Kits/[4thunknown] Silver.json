@@ -1,0 +1,46 @@
+{
+    "[4thunknown] Silver": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Silver",
+        "Description": "",
+        "Items": {
+            "Armor1SilverBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Silver Boots",
+                "Plugin": "1SilverArmor.esl"
+            },
+            "Armor1SilverCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Silver Cuirass",
+                "Plugin": "1SilverArmor.esl"
+            },
+            "Armor1SilverCuirass2": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Silver Cuirass",
+                "Plugin": "1SilverArmor.esl"
+            },
+            "Armor1SilverGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Silver Gauntlets",
+                "Plugin": "1SilverArmor.esl"
+            },
+            "Armor1SilverHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SilverHelmet",
+                "Plugin": "1SilverArmor.esl"
+            },
+            "Armor1SilverHelmet2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "SilverHelmet",
+                "Plugin": "1SilverArmor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

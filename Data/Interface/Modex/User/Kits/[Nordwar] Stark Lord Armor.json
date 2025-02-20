@@ -1,0 +1,34 @@
+{
+    "[Nordwar] Stark Lord Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Stark Lord Armor",
+        "Description": "",
+        "Items": {
+            "DIS_Stark_Armor_Jon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northerners Lord Armor",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Stark_Boots_Jon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northerners Lord Boots",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Stark_Gauntlets_Jon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Northerners Lord Bracers",
+                "Plugin": "DIS_Stark_Armors.esp"
+            },
+            "DIS_Stark_Helmet_Light": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Chainmail Hood",
+                "Plugin": "DIS_Stark_Armors.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

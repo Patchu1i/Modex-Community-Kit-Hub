@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Ranger": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ranger",
+        "Description": "",
+        "Items": {
+            "IARangerBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ranger Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARangerBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ranger Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARangerCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ranger Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IARangerHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ranger Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

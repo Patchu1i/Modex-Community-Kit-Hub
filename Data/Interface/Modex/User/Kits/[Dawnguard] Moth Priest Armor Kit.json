@@ -1,0 +1,22 @@
+{
+    "[Dawnguard] Moth Priest Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dawnguard] Moth Priest Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC1ClothesMothPriestRobes": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Moth Priest Robes",
+                "Plugin": "Dawnguard.esm"
+            },
+            "DLC1ClothesMothPriestSandals": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Moth Priest Sandals",
+                "Plugin": "Dawnguard.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

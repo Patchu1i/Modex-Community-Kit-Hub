@@ -1,0 +1,52 @@
+{
+    "[COCO] Ahri Uniform III": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Ahri Uniform III",
+        "Description": "",
+        "Items": {
+            "Ahriv2_bra3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Bra III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_briefs3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Briefs III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_neck3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Neck III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_shoes3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Shoes III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_skirt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Skirt III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_stock3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Stockings III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            },
+            "Ahriv2_top3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Ahri Top III",
+                "Plugin": "[COCO] Ahri Uniforms.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

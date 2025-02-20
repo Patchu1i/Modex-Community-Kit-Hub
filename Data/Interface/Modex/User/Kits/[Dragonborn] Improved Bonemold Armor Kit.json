@@ -1,0 +1,40 @@
+{
+    "[Dragonborn] Improved Bonemold Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Improved Bonemold Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ArmorBonemoldImprovedBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Improved Bonemold Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorBonemoldImprovedCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Improved Bonemold Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorBonemoldImprovedGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Improved Bonemold Gauntlets",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorBonemoldImprovedHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Improved Bonemold Helmet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorBonemoldImprovedShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Improved Bonemold Shield",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "[ELLE] Elven Lake (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Elven Lake (Black)",
+        "Description": "",
+        "Items": {
+            "00EL_ElvenLakeArmbandsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Armbands Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            },
+            "00EL_ElvenLakeBraceletBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Bracelet Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            },
+            "00EL_ElvenLakeFlowerBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Flower Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            },
+            "00EL_ElvenLakeFootWrapsBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Foot Wraps Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            },
+            "00EL_ElvenLakeMainBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Main Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            },
+            "00EL_ElvenLakeThighBlack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Elven Lake Thigh Black",
+                "Plugin": "[ELLE] Elven Lake.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

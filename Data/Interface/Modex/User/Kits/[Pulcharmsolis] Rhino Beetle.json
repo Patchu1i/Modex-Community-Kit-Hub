@@ -1,0 +1,40 @@
+{
+    "[Pulcharmsolis] Rhino Beetle": {
+        "ClearEquipped": true,
+        "Collection": "[Pulcharmsolis] Rhino Beetle",
+        "Description": "",
+        "Items": {
+            "RhinoBeetleBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rhino Beetle Boots",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RhinoBeetleCloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rhino Beetle Cloak",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RhinoBeetleCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rhino Beetle Armor",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RhinoBeetleGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rhino Beetle Bracers",
+                "Plugin": "Armors of the Velothi.esp"
+            },
+            "RhinoBeetleHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Rhino Beetle Helmet",
+                "Plugin": "Armors of the Velothi.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

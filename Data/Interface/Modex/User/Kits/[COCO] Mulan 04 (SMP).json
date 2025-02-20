@@ -1,0 +1,46 @@
+{
+    "[COCO] Mulan 04 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Mulan 04 (SMP)",
+        "Description": "",
+        "Items": {
+            "cocoweapon2d": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Weapon 04",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_cloaksmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Cloak 04 [SMP]",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_dresssmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Dress 04 [SMP]",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_pantsB4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Panty B 04",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_shoes3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Shoes 03",
+                "Plugin": "[COCO] Mulan.esp"
+            },
+            "mulan_stocking4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Mulan Stocking 04",
+                "Plugin": "[COCO] Mulan.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

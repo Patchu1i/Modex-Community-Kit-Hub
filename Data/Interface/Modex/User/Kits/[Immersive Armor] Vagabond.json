@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Vagabond": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Vagabond",
+        "Description": "",
+        "Items": {
+            "IAVagabondHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondLeatherBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Leather Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondLeatherBracers": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Leather Bracers",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAVagabondLeatherCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Vagabond Leather Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

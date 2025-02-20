@@ -1,0 +1,82 @@
+{
+    "[ELLE] Warrior (Shiny & Blue)": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Warrior (Shiny & Blue)",
+        "Description": "",
+        "Items": {
+            "00EL_WarriorBandages3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Bandages 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorBelt3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Belt 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorBoots3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Boots 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorBootsArmour3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Boots Armour 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorChestArmour3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Chest Armour 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorGlove3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Glove 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorGloveArmour3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Glove Armour 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorPauldron3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Pauldron 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorScarf3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Scarf 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorShorts3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Shorts 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorThighband3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Thighband 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            },
+            "00EL_WarriorTop3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Warrior Top 3",
+                "Plugin": "[ELLE] Warrior.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

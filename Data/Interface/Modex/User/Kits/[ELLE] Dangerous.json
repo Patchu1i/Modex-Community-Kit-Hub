@@ -1,0 +1,58 @@
+{
+    "[ELLE] Dangerous": {
+        "ClearEquipped": true,
+        "Collection": "[ELLE] Dangerous",
+        "Description": "",
+        "Items": {
+            "00EL_DangerousGreaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Greaves",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Heels",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousPanties": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Panties",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousPauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Pauldrons",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Skirt",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousStockings": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Stockings",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Top",
+                "Plugin": "[ELLE] Dangerous.esp"
+            },
+            "00EL_DangerousVambraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[E] Dangerous Vambraces",
+                "Plugin": "[ELLE] Dangerous.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

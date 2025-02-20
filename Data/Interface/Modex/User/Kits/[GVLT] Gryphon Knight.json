@@ -1,0 +1,46 @@
+{
+    "[GVLT] Gryphon Knight": {
+        "ClearEquipped": true,
+        "Collection": "[GVLT] Gryphon Knight",
+        "Description": "",
+        "Items": {
+            "ArmorBaronBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gryphonknight Boots",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            },
+            "ArmorBaronCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gryphonknight Armor",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            },
+            "ArmorBaronFurs": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gryphonknight Furs",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            },
+            "ArmorBaronGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gryphonknight Gauntlets",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            },
+            "ArmorBaronHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gryphonknight Helmet",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            },
+            "BaronBastardSwordSilver": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Silver-coated Bastard Sword",
+                "Plugin": "GVLT_Gryphonknight.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

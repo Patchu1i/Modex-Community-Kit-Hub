@@ -1,0 +1,94 @@
+{
+    "[Fuse00] Wayward Knight (Armored) (Red)": {
+        "ClearEquipped": true,
+        "Collection": "[Fuse00] Wayward Knight (Armored) (Red)",
+        "Description": "",
+        "Items": {
+            "a0WaywardKnightCouters": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Couters",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightCuirassC0": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 0 Armor",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Gauntlets",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightGorget": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Gorget",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightHelmetCrestSMPC0": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 0 Helmet Decorative Crest SMP",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightHelmetUp": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Helmet - Up",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightInner": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Innerwear",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightLegguards": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Legguards",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightPauldrons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Pauldrons",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightRerebraces": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Rerebraces",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightSabatons": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Boots - Sabatons",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightSkirtSMPC0": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 0 Skirt - SMP",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightSocksC0": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight 0 Socks",
+                "Plugin": "ahzWaywardKnight.esp"
+            },
+            "a0WaywardKnightTassets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wayward Knight Tassets",
+                "Plugin": "ahzWaywardKnight.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

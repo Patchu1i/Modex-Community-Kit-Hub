@@ -1,0 +1,94 @@
+{
+    "[COCO] 2B Wedding Outfit 03 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] 2B Wedding Outfit 03 (SMP)",
+        "Description": "",
+        "Items": {
+            "cocoweapon2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Battle Angels Weapon 02",
+                "Plugin": "[COCO]BattleAngels.esp"
+            },
+            "wedding_2b_TOPsmp2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Top 02 (SMP)",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_boots2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Boots 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_bowknot3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Bowknot 03",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_bra2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Bra 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_bram2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding BraM 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_glove4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Gloves 03",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_hair3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Hair 03",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_line2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Line 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_mask2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Mask 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_neck2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Neck 02",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_pants3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Pants 03",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_skirtsmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Skirt 03 (SMP)",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            },
+            "wedding_2b_veilsmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO]2B Wedding Veil 03 (SMP)",
+                "Plugin": "[COCO] 2B Wedding Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

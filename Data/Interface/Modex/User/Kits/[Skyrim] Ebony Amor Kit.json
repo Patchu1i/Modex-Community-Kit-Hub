@@ -1,0 +1,88 @@
+{
+    "[Skyrim] Ebony Amor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Ebony Amor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorEbonyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorEbonyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorEbonyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorEbonyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorEbonyShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ebony Shield",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyBattleaxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ebony Battleaxe",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ebony Bow",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ebony Dagger",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ebony Greatsword",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ebony Mace",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonySword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ebony Sword",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyWarAxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Ebony War Axe",
+                "Plugin": "Skyrim.esm"
+            },
+            "EbonyWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Ebony Warhammer",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

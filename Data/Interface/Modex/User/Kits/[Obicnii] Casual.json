@@ -1,0 +1,28 @@
+{
+    "[Obicnii] Casual": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Casual",
+        "Description": "",
+        "Items": {
+            "1_ObiCasualPanties": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Panties",
+                "Plugin": "Obi's Casual Outfit.esp"
+            },
+            "1_ObiCasualShirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Shirt",
+                "Plugin": "Obi's Casual Outfit.esp"
+            },
+            "1_ObiCasualSkirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Casual Skirt",
+                "Plugin": "Obi's Casual Outfit.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

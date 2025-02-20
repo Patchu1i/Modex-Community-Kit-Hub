@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Dwarven Mage Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Dwarven Mage Light",
+        "Description": "",
+        "Items": {
+            "IADwarvenMageLBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageLGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Light Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageLHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADwarvenMageLRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dwarven Mage Light Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

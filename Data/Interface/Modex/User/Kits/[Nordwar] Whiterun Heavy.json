@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Whiterun Heavy": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Whiterun Heavy",
+        "Description": "",
+        "Items": {
+            "0_Sword_Whiterun": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Sword",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Armor_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Heavy Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Boots_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Heavy Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Cloak": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Cloak",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Gauntlets_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Heavy Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Helmet_Heavy": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Heavy Helmet",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Whiterun_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Whiterun Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

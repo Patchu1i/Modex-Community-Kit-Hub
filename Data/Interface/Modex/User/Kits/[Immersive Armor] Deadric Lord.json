@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Deadric Lord": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Deadric Lord",
+        "Description": "",
+        "Items": {
+            "IABucklerDaedric": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Buckler",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADaedricLordBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Lord Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADaedricLordCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Lord Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IADaedricLordGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Daedric Lord Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "[DX] Wild Bunny": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Wild Bunny",
+        "Description": "",
+        "Items": {
+            "DX_WildBunny_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Boots",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_CandyCane": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Candy Cane",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Collar1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Collar",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Ears": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Ears",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Gloves",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Ribbon": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Ribbon",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Skirt",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Socks": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Socks",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            },
+            "DX_WildBunny_Top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Wild Bunny Top",
+                "Plugin": "DX Christmas Bunny Outfit.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Ebony Mage Light": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Ebony Mage Light",
+        "Description": "",
+        "Items": {
+            "IAEbonyMageLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Light Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageLightGloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Light Gloves",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageLightHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Light Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEbonyMageLightRobe": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Ebony Mage Light Robe",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

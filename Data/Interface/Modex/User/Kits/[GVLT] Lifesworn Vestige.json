@@ -1,0 +1,46 @@
+{
+    "[GVLT] Lifesworn Vestige": {
+        "ClearEquipped": true,
+        "Collection": "[GVLT] Lifesworn Vestige",
+        "Description": "",
+        "Items": {
+            "gvlt_lifesworn_armor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Lifesworn Vestige",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            },
+            "gvlt_lifesworn_boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Lifesworn Boots",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            },
+            "gvlt_lifesworn_cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Lifesworn Cape",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            },
+            "gvlt_lifesworn_gloves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Lifesworn Gloves",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            },
+            "gvlt_lifesworn_helmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Lifesworn Helmet",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            },
+            "gvlt_lifesworn_warmace": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Desolating Warmace",
+                "Plugin": "GVLT_LifeswornVestige.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

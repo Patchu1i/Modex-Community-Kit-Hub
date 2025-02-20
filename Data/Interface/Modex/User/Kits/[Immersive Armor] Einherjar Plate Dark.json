@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Einherjar Plate Dark": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Einherjar Plate Dark",
+        "Description": "",
+        "Items": {
+            "IAEinherjarPlateDarkBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Dark Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateDarkCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Dark Cuirass",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateDarkGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Dark Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAEinherjarPlateDarkHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Einherjar Plate Dark Hood",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

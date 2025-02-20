@@ -1,0 +1,28 @@
+{
+    "[Skyrim] Stormcloak Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Stormcloak Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorStormcloakCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Cuirass",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorStormcloakCuirassSleeves": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Stormcloak Cuirass",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorStormcloakHelmetFull": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Helmet",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

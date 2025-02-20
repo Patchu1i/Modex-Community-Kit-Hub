@@ -1,0 +1,34 @@
+{
+    "[Obicnii] Eclipse Seductress": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Eclipse Seductress",
+        "Description": "",
+        "Items": {
+            "1_EclipseSeductressBlindfold": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "EclipseSeductress Blindfold",
+                "Plugin": "EclipseSeductress.esp"
+            },
+            "1_EclipseSeductressHood": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "EclipseSeductress Hood",
+                "Plugin": "EclipseSeductress.esp"
+            },
+            "1_EclipseSeductressPants": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "EclipseSeductress Pants",
+                "Plugin": "EclipseSeductress.esp"
+            },
+            "1_EclipseSeductressTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "EclipseSeductress Top",
+                "Plugin": "EclipseSeductress.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

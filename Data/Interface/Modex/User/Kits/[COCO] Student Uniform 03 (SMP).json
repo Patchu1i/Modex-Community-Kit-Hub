@@ -1,0 +1,46 @@
+{
+    "[COCO] Student Uniform 03 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Student Uniform 03 (SMP)",
+        "Description": "",
+        "Items": {
+            "Student_lowsmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Skirt (SMP) 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            },
+            "Student_panty3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Panties 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            },
+            "Student_shoes3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Shoes 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            },
+            "Student_stock3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Stockings 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            },
+            "Student_tiesmp3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Tie (SMP) 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            },
+            "Student_top3": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] Student Top 03",
+                "Plugin": "[COCO]Student_Uniform.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "[Skyrim] Dragonplate Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Skyrim] Dragonplate Armor Kit",
+        "Description": "",
+        "Items": {
+            "ArmorDragonplateBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonplate Boots",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonplateCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonplate Armor",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonplateGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonplate Gauntlets",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonplateHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Dragonplate Helmet",
+                "Plugin": "Skyrim.esm"
+            },
+            "ArmorDragonplateShield": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Dragonplate Shield",
+                "Plugin": "Skyrim.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

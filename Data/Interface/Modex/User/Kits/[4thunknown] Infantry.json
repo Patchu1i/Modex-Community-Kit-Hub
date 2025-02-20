@@ -1,0 +1,64 @@
+{
+    "[4thunknown] Infantry": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Infantry",
+        "Description": "",
+        "Items": {
+            "1InfGrossmesser": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Grossmesser",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryHeavyArmor": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Infantry Cuirass",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Boots",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Gauntlets",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Heavy Helmet",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryLightArmor": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Jacket",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryLightBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Boots",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryLightGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Infantry Gauntlets",
+                "Plugin": "1FS.esl"
+            },
+            "1InfantryLightHelmet": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Infantry Light Helmet",
+                "Plugin": "1FS.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

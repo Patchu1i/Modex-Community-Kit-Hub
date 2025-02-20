@@ -1,0 +1,52 @@
+{
+    "[xxxODDxx] MilkMaid (Black)": {
+        "ClearEquipped": true,
+        "Collection": "[xxxODDxx] MilkMaid (Black)",
+        "Description": "",
+        "Items": {
+            "00milkHeelsblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Heels",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milkWristblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Wrists",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milkapronblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Apron",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milkbottomblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Bottom",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milkearsb": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Ears",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milkthighblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Thigh",
+                "Plugin": "[Odd] MilkMaid.esp"
+            },
+            "00milktopblm": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[Odd] MilkMaid Black Top",
+                "Plugin": "[Odd] MilkMaid.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

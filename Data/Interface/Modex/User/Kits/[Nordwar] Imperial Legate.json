@@ -1,0 +1,52 @@
+{
+    "[Nordwar] Imperial Legate": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Imperial Legate",
+        "Description": "",
+        "Items": {
+            "ArmorImperialGauntletsMedium": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Bracer",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "ArmorImperialHelmetMedium": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Helmet Medium",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Imperial_Cloack": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Cloak",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Legate_CuirassA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Imperial Legate Armor",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Officer_Sword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Officer's Sword",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Boots",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            },
+            "DIS_Old_Shield": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Old Shield",
+                "Plugin": "DIS_Heavy_Legion.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "[Obicnii] Gladiator Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Gladiator Armor",
+        "Description": "",
+        "Items": {
+            "1_GladiatorArms": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Arms",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            },
+            "1_GladiatorBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Boots",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            },
+            "1_GladiatorHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Helmet",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            },
+            "1_GladiatorHelmetHair": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Helmet [Hair]",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            },
+            "1_GladiatorTop": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Top",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            },
+            "1_GladiatorWaist": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Gladiator Waist",
+                "Plugin": "Obi's Gladiator Armor.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

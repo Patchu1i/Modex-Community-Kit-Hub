@@ -1,0 +1,88 @@
+{
+    "[Goampuja] Regalia Of The Scorned": {
+        "ClearEquipped": true,
+        "Collection": "[Goampuja] Regalia Of The Scorned",
+        "Description": "",
+        "Items": {
+            "aaaRegaliaOfTheScorned": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Regalia of the Scorned",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedArms": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Arms",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedBelts": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Belts",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedChainmail": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Chainmail",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedCuisse": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Cuisse",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedGreaves": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Greaves",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedHeels": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Heels",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedHip": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Hip",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedLegs": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Legs",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedPanty": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Panty",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedPauldron": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Pauldron",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedRose": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Rose",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            },
+            "aaaScornedShirt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scorned Shirt",
+                "Plugin": "RegaliaOfTheScorned.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "[TAWOBA] Iron Bikini II": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Iron Bikini II",
+        "Description": "",
+        "Items": {
+            "00BIB_Bikini_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Top II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_abs_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Abs II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_boots_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Boots II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_chestguard_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Chest Reinforcement I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_circlet_1_hornB": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Circlet Horned B",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gauntlets_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gauntlets II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_gorget_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Gorget II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_shoulder_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Pauldron II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_spine_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Spine I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_tasset_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Tasset II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thigh_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Thigh II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00BIB_thong_2": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Iron Bikini Bottom II",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

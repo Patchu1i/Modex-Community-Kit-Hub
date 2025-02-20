@@ -1,0 +1,52 @@
+{
+    "[DX] Celes Mercy": {
+        "ClearEquipped": true,
+        "Collection": "[DX] Celes Mercy",
+        "Description": "",
+        "Items": {
+            "DX_CelesMercy_BootsPink": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Rose Boots",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_Bow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Bow",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_BowArrow": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Arrow",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_BracersPink": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Rose Bracers",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_Cape": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Cape",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_Cuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Cuirass",
+                "Plugin": "Celes Mercy.esl"
+            },
+            "DX_CelesMercy_Halo": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Celes Mercy Halo",
+                "Plugin": "Celes Mercy.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "[Obicnii] Cozy Classic": {
+        "ClearEquipped": true,
+        "Collection": "[Obicnii] Cozy Classic",
+        "Description": "",
+        "Items": {
+            "1_CozyJeansClassic": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cozy Jeans Classic",
+                "Plugin": "ObiCozyClassic.esp"
+            },
+            "1_CozyShirtBrown": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cozy Shirt Brown",
+                "Plugin": "ObiCozyClassic.esp"
+            },
+            "1_CozyShirtWhite": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Cozy Shirt White",
+                "Plugin": "ObiCozyClassic.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

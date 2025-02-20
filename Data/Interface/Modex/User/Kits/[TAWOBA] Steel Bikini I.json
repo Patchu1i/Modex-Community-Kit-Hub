@@ -1,0 +1,64 @@
+{
+    "[TAWOBA] Steel Bikini I": {
+        "ClearEquipped": true,
+        "Collection": "[TAWOBA] Steel Bikini I",
+        "Description": "",
+        "Items": {
+            "00SBA_Thigh_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Thigh I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_Thong_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Bikini Bottom I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_abs_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Abs I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_bikini_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Bikini Top I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_boots_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Boots I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_gauntlets_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Gauntlets I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_helm_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Head Gear I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_shoulder_1_L": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Pauldron I L",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            },
+            "00SBA_targe_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Steel Targe I",
+                "Plugin": "The Amazing World of Bikini Armors REMASTERED.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

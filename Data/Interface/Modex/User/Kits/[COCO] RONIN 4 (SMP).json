@@ -1,0 +1,82 @@
+{
+    "[COCO] RONIN 4 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] RONIN 4 (SMP)",
+        "Description": "",
+        "Items": {
+            "RONIN_beltfull4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Belt Full 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_beltleg4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Belt Leg 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_glove4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Glove 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_helmetsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Helmet [SMP] 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_masksmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Mask [SMP] 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_ropeleg4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Rope Leg 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_shield4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Shield 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_shoes4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Shoes 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_skirtsmp4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Skirt [SMP] 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_strap4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Strap 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_top4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Top 4",
+                "Plugin": "[COCO] RONIN.esp"
+            },
+            "RONIN_underwear4": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "[COCO] RONIN Underwear 4",
+                "Plugin": "[COCO] RONIN.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

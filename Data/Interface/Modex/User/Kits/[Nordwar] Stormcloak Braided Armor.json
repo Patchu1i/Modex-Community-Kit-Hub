@@ -1,0 +1,34 @@
+{
+    "[Nordwar] Stormcloak Braided Armor": {
+        "ClearEquipped": true,
+        "Collection": "[Nordwar] Stormcloak Braided Armor",
+        "Description": "",
+        "Items": {
+            "0_Gauntlets_Splinted_Medium": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Splinted Medium Gauntlets",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_Officer_Boots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Officer Boots",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_SC_Armor_Braided": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Braided Armor",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            },
+            "0_SC_Shield_Light_1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stormcloak Ligth Shield",
+                "Plugin": "NW_Sons_of_Skyrim.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

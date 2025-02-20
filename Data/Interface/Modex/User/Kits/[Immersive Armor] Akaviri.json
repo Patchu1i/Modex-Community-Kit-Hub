@@ -1,0 +1,34 @@
+{
+    "[Immersive Armor] Akaviri": {
+        "ClearEquipped": true,
+        "Collection": "[Immersive Armor] Akaviri",
+        "Description": "",
+        "Items": {
+            "IAAkaviriSamuraiBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Akaviri Samurai Boots",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAkaviriSamuraiCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Akaviri Samurai Armor",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAkaviriSamuraiGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Akaviri Samurai Gauntlets",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            },
+            "IAAkaviriSamuraiHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Akaviri Samurai Helmet",
+                "Plugin": "Hothtrooper44_ArmorCompilation.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "[COCO] Bloom Youth 01 (SMP)": {
+        "ClearEquipped": true,
+        "Collection": "[COCO] Bloom Youth 01 (SMP)",
+        "Description": "",
+        "Items": {
+            "BloomYouth_belt": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_belt",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "BloomYouth_shoes1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_shoes1",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "BloomYouth_skirt1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_skirt1",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "BloomYouth_top1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_top1",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "bloomyouth_earring": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_earring",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "byglass1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_glasses1",
+                "Plugin": "[COCO]BloomYouth.esp"
+            },
+            "byhat1": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "BloomYouth_hat1",
+                "Plugin": "[COCO]BloomYouth.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

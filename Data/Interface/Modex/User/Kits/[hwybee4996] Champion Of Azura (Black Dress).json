@@ -1,0 +1,58 @@
+{
+    "[hwybee4996] Champion Of Azura (Black Dress)": {
+        "ClearEquipped": true,
+        "Collection": "[hwybee4996] Champion Of Azura (Black Dress)",
+        "Description": "",
+        "Items": {
+            "AAAChampionofAzuraAmulet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Amulet of Azura",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackBreastCoverAA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Breast Cover",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackDress": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Dress",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackGlovesAA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Gloves",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackHatRedLaceAA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Hat Red Lace",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackShoeAA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Shoe",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraBlackUnderwearAA": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Black Underwear",
+                "Plugin": "ChampionofAzura.esp"
+            },
+            "AAAChampionofAzuraSword": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Champion of Azura Sword",
+                "Plugin": "ChampionofAzura.esp"
+            }
+        },
+        "ReadOnly": true
+    }
+}

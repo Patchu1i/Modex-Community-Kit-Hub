@@ -1,0 +1,82 @@
+{
+    "[Dragonborn] Stalhrim Heavy Armor Kit": {
+        "ClearEquipped": true,
+        "Collection": "[Dragonborn] Stalhrim Heavy Armor Kit",
+        "Description": "",
+        "Items": {
+            "DLC2ArmorStalhrimHeavyBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stalhrim Heavy Boots",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorStalhrimHeavyCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stalhrim Heavy Armor",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorStalhrimHeavyGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stalhrim Heavy Gauntlets",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2ArmorStalhrimHeavyHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Stalhrim Heavy Helmet",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimBattleaxe": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Stalhrim Battleaxe",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimBow": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Stalhrim Bow",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimDagger": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Stalhrim Dagger",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimGreatsword": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Stalhrim Greatsword",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimMace": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Stalhrim Mace",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimSword": {
+                "Amount": 2,
+                "Equipped": false,
+                "Name": "Stalhrim Sword",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimWarAxe": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Stalhrim War Axe",
+                "Plugin": "Dragonborn.esm"
+            },
+            "DLC2StalhrimWarhammer": {
+                "Amount": 1,
+                "Equipped": false,
+                "Name": "Stalhrim Warhammer",
+                "Plugin": "Dragonborn.esm"
+            }
+        },
+        "ReadOnly": true
+    }
+}

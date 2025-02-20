@@ -1,0 +1,46 @@
+{
+    "[4thunknown] Fluted Armor": {
+        "ClearEquipped": true,
+        "Collection": "[4thunknown] Fluted Armor",
+        "Description": "",
+        "Items": {
+            "1FlutedBoots": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fluted Boots",
+                "Plugin": "1FlutedArmor.esl"
+            },
+            "1FlutedCuirass": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fluted Cuirass",
+                "Plugin": "1FlutedArmor.esl"
+            },
+            "1FlutedGauntlets": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fluted Gauntlets",
+                "Plugin": "1FlutedArmor.esl"
+            },
+            "1FlutedHelmet": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fluted Helmet",
+                "Plugin": "1FlutedArmor.esl"
+            },
+            "1FlutedPauldron": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Fluted Pauldron",
+                "Plugin": "1FlutedArmor.esl"
+            },
+            "1FlutedScarf": {
+                "Amount": 1,
+                "Equipped": true,
+                "Name": "Scarf",
+                "Plugin": "1FlutedArmor.esl"
+            }
+        },
+        "ReadOnly": true
+    }
+}
