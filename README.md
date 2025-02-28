@@ -189,11 +189,11 @@ TBA | Just add a file through PR or submit an issue for now.
 | Nordwar | [Chainmail](https://www.nexusmods.com/skyrimspecialedition/mods/27340) |
 | Nordwar | [Dawnstar Iron](https://www.nexusmods.com/skyrimspecialedition/mods/68656) |
 | Nordwar | [Dawnstar Leather](https://www.nexusmods.com/skyrimspecialedition/mods/68656) |
-| Nordwar | Emperor's Armor |
+| Nordwar | [Emperor's Armor](https://www.nexusmods.com/skyrimspecialedition/mods/30468) |
 | Nordwar | [Falkreath Light](https://www.nexusmods.com/skyrimspecialedition/mods/68656) |
 | Nordwar | [Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/68656) |
-| Nordwar | Fur |
-| Nordwar | Heavy Nordic Armor |
+| Nordwar | [Fur](https://www.nexusmods.com/skyrimspecialedition/mods/26472) |
+| Nordwar | [Heavy Nordic Armor](https://www.nexusmods.com/skyrimspecialedition/mods/27471) |
 | Nordwar | [Imperial General](https://www.nexusmods.com/skyrimspecialedition/mods/30468) |
 | Nordwar | [Imperial Legate](https://www.nexusmods.com/skyrimspecialedition/mods/30468) |
 | Nordwar | [Imperial Old](https://www.nexusmods.com/skyrimspecialedition/mods/30468) |
