@@ -1,8 +1,10 @@
 # Official Modex Community Kit Hub
+
 A collection of Modex kits open to community contribution for the Skyrim SKSE plugin [Modex - A Mod Explorer Menu](https://www.nexusmods.com/skyrimspecialedition/mods/137877).
 Scroll to the bottom to view a full list with hyperlinks!
 
 # How To Install:
+
 1. Download "Release" on the right-hand sidebar.
 2. Import / Install with your Mod Manager.
 3. Done!
@@ -80,48 +82,6 @@ TBA | Just add a file through PR or submit an issue for now.
 | DX | [Morenn Outfit](https://www.nexusmods.com/skyrimspecialedition/mods/41655) |
 | DX | [Witch Hunter](https://www.nexusmods.com/skyrimspecialedition/mods/32318) |
 | DX | [Witcher](https://www.nexusmods.com/skyrimspecialedition/mods/33034) |
-| Bethesda | Dawnguard Armor Kit |
-| Bethesda | Falmer Heavy Armor |
-| Bethesda | Moth Priest Armor |
-| Bethesda | Snow-Elven Armor |
-| Bethesda | Vampire Armor |
-| Bethesda | Bonemold Armor Kit |
-| Bethesda | Chitin Armor Kit |
-| Bethesda | Chitin Heavy Armor Kit |
-| Bethesda | Cultist Armor Kit |
-| Bethesda | Improved Bonemold Armor Kit |
-| Bethesda | Morag Tong Armor Kit |
-| Bethesda | Nordic Carved Armor Kit |
-| Bethesda | Skaal Armor Kit |
-| Bethesda | Stalhrim Heavy Armor Kit |
-| Bethesda | Stalhrim Light Armor Kit |
-| Bethesda | Temple Priest |
-| Bethesda | Ancient Nordic Kit |
-| Bethesda | Blades Armor Kit |
-| Bethesda | Deadric Armor Kit |
-| Bethesda | Dragonplate Armor Kit |
-| Bethesda | Dragonscale Armor Kit |
-| Bethesda | Dwarven Armor Kit |
-| Bethesda | Ebony Armor Kit |
-| Bethesda | Elven Armor Kit |
-| Bethesda | Elven Light Armor Kit |
-| Bethesda | Falmer Armor Kit |
-| Bethesda | Forsworn Armor Kit |
-| Bethesda | Fur Armor Kit |
-| Bethesda | Glass Armor Kit |
-| Bethesda | Hide Armor Kit |
-| Bethesda | Imperial Armor Kit |
-| Bethesda | Imperial Light Armor Kit |
-| Bethesda | Iron Armor Kit |
-| Bethesda | Leather Armor Kit |
-| Bethesda | Orcish Armor Kit |
-| Bethesda | Penitus Oculatus Armor Kit |
-| Bethesda | Scaled Armor Kit |
-| Bethesda | Steel Armor Kit |
-| Bethesda | Steel Plate Armor Kit |
-| Bethesda | Stormcloak Armor Kit |
-| Bethesda | Wolf Armor Kit |
-| Bethesda | Worn Shrouded Armor Kit |
 | ELLE | [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/104241) |
 | ELLE | [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/141507) |
 | ELLE | [Bifrost](https://www.nexusmods.com/skyrimspecialedition/mods/88152) |
@@ -316,22 +276,53 @@ TBA | Just add a file through PR or submit an issue for now.
 | xxxODDxx | [Hellraiser](https://www.nexusmods.com/skyrimspecialedition/mods/43149) |
 | xxxODDxx | [MilkMaid](https://www.nexusmods.com/skyrimspecialedition/mods/44980) |
 
-Missing Link:
+Skyrim + Dawnguard + Dragonborn DLC:
+| Author / Source | Outfit & Link |
+| ------------- | ------------- |
+| Bethesda | Dawnguard Armor Kit |
+| Bethesda | Falmer Heavy Armor |
+| Bethesda | Moth Priest Armor |
+| Bethesda | Snow-Elven Armor |
+| Bethesda | Vampire Armor |
+| Bethesda | Bonemold Armor Kit |
+| Bethesda | Chitin Armor Kit |
+| Bethesda | Chitin Heavy Armor Kit |
+| Bethesda | Cultist Armor Kit |
+| Bethesda | Improved Bonemold Armor Kit |
+| Bethesda | Morag Tong Armor Kit |
+| Bethesda | Nordic Carved Armor Kit |
+| Bethesda | Skaal Armor Kit |
+| Bethesda | Stalhrim Heavy Armor Kit |
+| Bethesda | Stalhrim Light Armor Kit |
+| Bethesda | Temple Priest |
+| Bethesda | Ancient Nordic Kit |
+| Bethesda | Blades Armor Kit |
+| Bethesda | Deadric Armor Kit |
+| Bethesda | Dragonplate Armor Kit |
+| Bethesda | Dragonscale Armor Kit |
+| Bethesda | Dwarven Armor Kit |
+| Bethesda | Ebony Armor Kit |
+| Bethesda | Elven Armor Kit |
+| Bethesda | Elven Light Armor Kit |
+| Bethesda | Falmer Armor Kit |
+| Bethesda | Forsworn Armor Kit |
+| Bethesda | Fur Armor Kit |
+| Bethesda | Glass Armor Kit |
+| Bethesda | Hide Armor Kit |
+| Bethesda | Imperial Armor Kit |
+| Bethesda | Imperial Light Armor Kit |
+| Bethesda | Iron Armor Kit |
+| Bethesda | Leather Armor Kit |
+| Bethesda | Orcish Armor Kit |
+| Bethesda | Penitus Oculatus Armor Kit |
+| Bethesda | Scaled Armor Kit |
+| Bethesda | Steel Armor Kit |
+| Bethesda | Steel Plate Armor Kit |
+| Bethesda | Stormcloak Armor Kit |
+| Bethesda | Wolf Armor Kit |
+| Bethesda | Worn Shrouded Armor Kit |
+
+Missing Link, Needs fixed:
 | Author / Source | Outfit & Link |
 | ------------- | ------------- |
 | Aradia | Lace Dress (?) |
-
-
-
-
-
-
-
-
-
-
-
-
-TODO:
-
-In the near future, I will upload a list of all authors and plugins contained in this repo. Along with instructions on how to contribute!
